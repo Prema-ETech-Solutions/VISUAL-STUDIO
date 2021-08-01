@@ -1,0 +1,13 @@
+E:\FUTURE WORK\VISUAL STUDIO\C# BASE PROGRAM\File\File\bin\Debug\netcoreapp3.1\File.exe
+E:\FUTURE WORK\VISUAL STUDIO\C# BASE PROGRAM\File\File\bin\Debug\netcoreapp3.1\File.deps.json
+E:\FUTURE WORK\VISUAL STUDIO\C# BASE PROGRAM\File\File\bin\Debug\netcoreapp3.1\File.runtimeconfig.json
+E:\FUTURE WORK\VISUAL STUDIO\C# BASE PROGRAM\File\File\bin\Debug\netcoreapp3.1\File.runtimeconfig.dev.json
+E:\FUTURE WORK\VISUAL STUDIO\C# BASE PROGRAM\File\File\bin\Debug\netcoreapp3.1\File.dll
+E:\FUTURE WORK\VISUAL STUDIO\C# BASE PROGRAM\File\File\bin\Debug\netcoreapp3.1\File.pdb
+E:\FUTURE WORK\VISUAL STUDIO\C# BASE PROGRAM\File\File\obj\Debug\netcoreapp3.1\File.csprojAssemblyReference.cache
+E:\FUTURE WORK\VISUAL STUDIO\C# BASE PROGRAM\File\File\obj\Debug\netcoreapp3.1\File.AssemblyInfoInputs.cache
+E:\FUTURE WORK\VISUAL STUDIO\C# BASE PROGRAM\File\File\obj\Debug\netcoreapp3.1\File.AssemblyInfo.cs
+E:\FUTURE WORK\VISUAL STUDIO\C# BASE PROGRAM\File\File\obj\Debug\netcoreapp3.1\File.csproj.CoreCompileInputs.cache
+E:\FUTURE WORK\VISUAL STUDIO\C# BASE PROGRAM\File\File\obj\Debug\netcoreapp3.1\File.dll
+E:\FUTURE WORK\VISUAL STUDIO\C# BASE PROGRAM\File\File\obj\Debug\netcoreapp3.1\File.pdb
+E:\FUTURE WORK\VISUAL STUDIO\C# BASE PROGRAM\File\File\obj\Debug\netcoreapp3.1\File.genruntimeconfig.cache

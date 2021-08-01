@@ -1,0 +1,15 @@
+E:\FUTURE WORK\VISUAL STUDIO\C# BASE PROGRAM\Dll_include\Dll_include\bin\Debug\netcoreapp3.1\Dll_include.exe
+E:\FUTURE WORK\VISUAL STUDIO\C# BASE PROGRAM\Dll_include\Dll_include\bin\Debug\netcoreapp3.1\Dll_include.deps.json
+E:\FUTURE WORK\VISUAL STUDIO\C# BASE PROGRAM\Dll_include\Dll_include\bin\Debug\netcoreapp3.1\Dll_include.runtimeconfig.json
+E:\FUTURE WORK\VISUAL STUDIO\C# BASE PROGRAM\Dll_include\Dll_include\bin\Debug\netcoreapp3.1\Dll_include.runtimeconfig.dev.json
+E:\FUTURE WORK\VISUAL STUDIO\C# BASE PROGRAM\Dll_include\Dll_include\bin\Debug\netcoreapp3.1\Dll_include.dll
+E:\FUTURE WORK\VISUAL STUDIO\C# BASE PROGRAM\Dll_include\Dll_include\bin\Debug\netcoreapp3.1\Dll_include.pdb
+E:\FUTURE WORK\VISUAL STUDIO\C# BASE PROGRAM\Dll_include\Dll_include\bin\Debug\netcoreapp3.1\Dll_1.dll
+E:\FUTURE WORK\VISUAL STUDIO\C# BASE PROGRAM\Dll_include\Dll_include\obj\Debug\netcoreapp3.1\Dll_include.csprojAssemblyReference.cache
+E:\FUTURE WORK\VISUAL STUDIO\C# BASE PROGRAM\Dll_include\Dll_include\obj\Debug\netcoreapp3.1\Dll_include.csproj.CoreCompileInputs.cache
+E:\FUTURE WORK\VISUAL STUDIO\C# BASE PROGRAM\Dll_include\Dll_include\obj\Debug\netcoreapp3.1\Dll_include.AssemblyInfoInputs.cache
+E:\FUTURE WORK\VISUAL STUDIO\C# BASE PROGRAM\Dll_include\Dll_include\obj\Debug\netcoreapp3.1\Dll_include.AssemblyInfo.cs
+E:\FUTURE WORK\VISUAL STUDIO\C# BASE PROGRAM\Dll_include\Dll_include\obj\Debug\netcoreapp3.1\Dll_include.csproj.CopyComplete
+E:\FUTURE WORK\VISUAL STUDIO\C# BASE PROGRAM\Dll_include\Dll_include\obj\Debug\netcoreapp3.1\Dll_include.dll
+E:\FUTURE WORK\VISUAL STUDIO\C# BASE PROGRAM\Dll_include\Dll_include\obj\Debug\netcoreapp3.1\Dll_include.pdb
+E:\FUTURE WORK\VISUAL STUDIO\C# BASE PROGRAM\Dll_include\Dll_include\obj\Debug\netcoreapp3.1\Dll_include.genruntimeconfig.cache

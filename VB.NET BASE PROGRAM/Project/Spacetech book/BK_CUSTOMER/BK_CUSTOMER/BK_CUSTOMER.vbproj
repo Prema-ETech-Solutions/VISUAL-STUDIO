@@ -1,0 +1,358 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{04E37881-D957-4C3C-AE5F-8093B72BD1B0}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <StartupObject>BK_CUSTOMER.My.MyApplication</StartupObject>
+    <RootNamespace>BK_CUSTOMER</RootNamespace>
+    <AssemblyName>BK_CUSTOMER</AssemblyName>
+    <FileAlignment>512</FileAlignment>
+    <MyType>WindowsForms</MyType>
+    <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+    <Deterministic>true</Deterministic>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <DefineDebug>true</DefineDebug>
+    <DefineTrace>true</DefineTrace>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DocumentationFile>BK_CUSTOMER.xml</DocumentationFile>
+    <NoWarn>42016,41999,42017,42018,42019,42032,42036,42020,42021,42022</NoWarn>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <DefineDebug>false</DefineDebug>
+    <DefineTrace>true</DefineTrace>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DocumentationFile>BK_CUSTOMER.xml</DocumentationFile>
+    <NoWarn>42016,41999,42017,42018,42019,42032,42036,42020,42021,42022</NoWarn>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionExplicit>On</OptionExplicit>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionCompare>Binary</OptionCompare>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionStrict>Off</OptionStrict>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionInfer>On</OptionInfer>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="Bunifu.UI.WinForms.BunifuDataGridView">
+      <HintPath>..\..\..\..\Downloads\_Bunifu_UI_WinForms_1.11.5.1\Bunifu_UI_WinForms_1.11.5.1\Bunifu_UI_WinForms_1.11.5.1\Bunifu.UI.WinForms.BunifuDataGridView.dll</HintPath>
+    </Reference>
+    <Reference Include="Guna.UI">
+      <HintPath>..\..\..\..\Desktop\Guna.UI-Framework-Lib-master\Guna.UI_WinForms\.net 4.0\Guna.UI.dll</HintPath>
+    </Reference>
+    <Reference Include="Guna.UI2">
+      <HintPath>..\..\..\..\Desktop\Guna.UI-Framework-Lib-master\Guna.UI2_WinFroms\.net 4.0\Guna.UI2.dll</HintPath>
+    </Reference>
+    <Reference Include="MySql.Data, Version=6.10.9.0, Culture=neutral, PublicKeyToken=c5687fc88969c44d, processorArchitecture=MSIL" />
+    <Reference Include="MySql.Data.Entity.EF6, Version=6.10.9.0, Culture=neutral, PublicKeyToken=c5687fc88969c44d, processorArchitecture=MSIL" />
+    <Reference Include="System" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Design" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Management" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="System.Net.Http" />
+  </ItemGroup>
+  <ItemGroup>
+    <Import Include="Microsoft.VisualBasic" />
+    <Import Include="System" />
+    <Import Include="System.Collections" />
+    <Import Include="System.Collections.Generic" />
+    <Import Include="System.Data" />
+    <Import Include="System.Drawing" />
+    <Import Include="System.Diagnostics" />
+    <Import Include="System.Windows.Forms" />
+    <Import Include="System.Linq" />
+    <Import Include="System.Xml.Linq" />
+    <Import Include="System.Threading.Tasks" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="BK_LOADING.Designer.vb">
+      <DependentUpon>BK_LOADING.vb</DependentUpon>
+    </Compile>
+    <Compile Include="BK_LOADING.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Database.vb" />
+    <Compile Include="Internet.vb" />
+    <Compile Include="Main_window.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Main_window.Designer.vb">
+      <DependentUpon>Main_window.vb</DependentUpon>
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="My Project\AssemblyInfo.vb" />
+    <Compile Include="My Project\Application.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Application.myapp</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <Compile Include="My Project\Resources.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <Compile Include="My Project\Settings.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="BK_LOADING.resx">
+      <DependentUpon>BK_LOADING.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Main_window.resx">
+      <DependentUpon>Main_window.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="My Project\Resources.resx">
+      <Generator>VbMyResourcesResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.vb</LastGenOutput>
+      <CustomToolNamespace>My.Resources</CustomToolNamespace>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="My Project\Application.myapp">
+      <Generator>MyApplicationCodeGenerator</Generator>
+      <LastGenOutput>Application.Designer.vb</LastGenOutput>
+    </None>
+    <None Include="My Project\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <CustomToolNamespace>My</CustomToolNamespace>
+      <LastGenOutput>Settings.Designer.vb</LastGenOutput>
+    </None>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\icons8-book-96.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\pngtree-human-book-education-logo-icon-vector-template-image_323436-removebg-preview %281%29.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\icons8-book-96 %283%29.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\download.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\download %281%29.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\download1.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Capture.PNG" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\icons8-eye-96.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\icons8-hide-96.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\icons8-circle-96 %281%29.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\icons8-circle-96 %281%291.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\icons8-circle-96 %281%292.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\icons8-add-user-male-100.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\BK_CUSTOM.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Untitled-1.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\icons8-room-100.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\icons8-search-250.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\icons8-search-2501.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\icons8-category-100.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\icons8-category-1001.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\icons8-home-384.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\icons8-categorize-90.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\icons8-contact-us-96.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\icons8-book-64.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\icons8-book-100.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\icons8-book-96 %285%29.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\icons8-settings-384.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\IMG_8807.JPG" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\living in the light.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\secret wisdom.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\The yoga.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Give and take.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\ancient world.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\action adventure.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\art.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\bio and history.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\adventure.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\horror.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\science fiction.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\computer.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\cooking.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\romance.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\goverment public.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\drama.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\game.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\health.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\IMG-20200708-WA0041.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\politics.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\young adult.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\travel.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\travel1.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\business.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\sexuility.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\young reader.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Give and take1.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\marathi 1.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\hindi pic.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\english pic.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\icons8-room-1001.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\icons8-room-1002.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\icons8-logout-rounded-left-52.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\UNLOCK.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\LOCK.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\all book.jpeg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\po.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\icons8-denied-96.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\refresh.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\icons8-back-arrow-100.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\icons8-tags-80.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\icons8-tags-80 %281%29.png" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.VisualBasic.targets" />
+</Project>

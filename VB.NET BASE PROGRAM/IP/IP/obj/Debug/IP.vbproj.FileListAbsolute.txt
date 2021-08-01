@@ -1,0 +1,24 @@
+C:\Users\FCS SERVER\source\repos\IP\IP\bin\Debug\IP.exe.config
+C:\Users\FCS SERVER\source\repos\IP\IP\bin\Debug\IP.exe
+C:\Users\FCS SERVER\source\repos\IP\IP\bin\Debug\IP.pdb
+C:\Users\FCS SERVER\source\repos\IP\IP\bin\Debug\IP.xml
+C:\Users\FCS SERVER\source\repos\IP\IP\obj\Debug\IP.vbprojAssemblyReference.cache
+C:\Users\FCS SERVER\source\repos\IP\IP\obj\Debug\IP.Form1.resources
+C:\Users\FCS SERVER\source\repos\IP\IP\obj\Debug\IP.Resources.resources
+C:\Users\FCS SERVER\source\repos\IP\IP\obj\Debug\IP.vbproj.GenerateResource.cache
+C:\Users\FCS SERVER\source\repos\IP\IP\obj\Debug\IP.vbproj.CoreCompileInputs.cache
+C:\Users\FCS SERVER\source\repos\IP\IP\obj\Debug\IP.exe
+C:\Users\FCS SERVER\source\repos\IP\IP\obj\Debug\IP.xml
+C:\Users\FCS SERVER\source\repos\IP\IP\obj\Debug\IP.pdb
+E:\FUTURE WORK\VISUAL STUDIO\VB.NET BASE PROGRAM\IP\IP\bin\Debug\IP.exe.config
+E:\FUTURE WORK\VISUAL STUDIO\VB.NET BASE PROGRAM\IP\IP\bin\Debug\IP.exe
+E:\FUTURE WORK\VISUAL STUDIO\VB.NET BASE PROGRAM\IP\IP\bin\Debug\IP.pdb
+E:\FUTURE WORK\VISUAL STUDIO\VB.NET BASE PROGRAM\IP\IP\bin\Debug\IP.xml
+E:\FUTURE WORK\VISUAL STUDIO\VB.NET BASE PROGRAM\IP\IP\obj\Debug\IP.vbprojAssemblyReference.cache
+E:\FUTURE WORK\VISUAL STUDIO\VB.NET BASE PROGRAM\IP\IP\obj\Debug\IP.Form1.resources
+E:\FUTURE WORK\VISUAL STUDIO\VB.NET BASE PROGRAM\IP\IP\obj\Debug\IP.Resources.resources
+E:\FUTURE WORK\VISUAL STUDIO\VB.NET BASE PROGRAM\IP\IP\obj\Debug\IP.vbproj.GenerateResource.cache
+E:\FUTURE WORK\VISUAL STUDIO\VB.NET BASE PROGRAM\IP\IP\obj\Debug\IP.vbproj.CoreCompileInputs.cache
+E:\FUTURE WORK\VISUAL STUDIO\VB.NET BASE PROGRAM\IP\IP\obj\Debug\IP.exe
+E:\FUTURE WORK\VISUAL STUDIO\VB.NET BASE PROGRAM\IP\IP\obj\Debug\IP.xml
+E:\FUTURE WORK\VISUAL STUDIO\VB.NET BASE PROGRAM\IP\IP\obj\Debug\IP.pdb

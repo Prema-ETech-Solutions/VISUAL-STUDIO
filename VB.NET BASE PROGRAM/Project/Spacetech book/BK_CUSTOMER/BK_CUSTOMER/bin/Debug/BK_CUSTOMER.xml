@@ -1,0 +1,376 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+BK_CUSTOMER
+</name>
+</assembly>
+<members>
+<member name="T:BK_CUSTOMER.My.Resources.Resources">
+<summary>
+  A strongly-typed resource class, for looking up localized strings, etc.
+</summary>
+</member>
+<member name="P:BK_CUSTOMER.My.Resources.Resources.ResourceManager">
+<summary>
+  Returns the cached ResourceManager instance used by this class.
+</summary>
+</member>
+<member name="P:BK_CUSTOMER.My.Resources.Resources.Culture">
+<summary>
+  Overrides the current thread's CurrentUICulture property for all
+  resource lookups using this strongly typed resource class.
+</summary>
+</member>
+<member name="P:BK_CUSTOMER.My.Resources.Resources.action_adventure">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:BK_CUSTOMER.My.Resources.Resources.adventure">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:BK_CUSTOMER.My.Resources.Resources.all_book">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:BK_CUSTOMER.My.Resources.Resources.ancient_world">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:BK_CUSTOMER.My.Resources.Resources.art">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:BK_CUSTOMER.My.Resources.Resources.bio_and_history">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:BK_CUSTOMER.My.Resources.Resources.BK_CUSTOM">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:BK_CUSTOMER.My.Resources.Resources.business">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:BK_CUSTOMER.My.Resources.Resources.Capture">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:BK_CUSTOMER.My.Resources.Resources.computer">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:BK_CUSTOMER.My.Resources.Resources.cooking">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:BK_CUSTOMER.My.Resources.Resources.download">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:BK_CUSTOMER.My.Resources.Resources.download__1_">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:BK_CUSTOMER.My.Resources.Resources.download1">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:BK_CUSTOMER.My.Resources.Resources.drama">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:BK_CUSTOMER.My.Resources.Resources.english_pic">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:BK_CUSTOMER.My.Resources.Resources.game">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:BK_CUSTOMER.My.Resources.Resources.Give_and_take">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:BK_CUSTOMER.My.Resources.Resources.Give_and_take1">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:BK_CUSTOMER.My.Resources.Resources.goverment_public">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:BK_CUSTOMER.My.Resources.Resources.health">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:BK_CUSTOMER.My.Resources.Resources.hindi_pic">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:BK_CUSTOMER.My.Resources.Resources.horror">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:BK_CUSTOMER.My.Resources.Resources.icons8_add_user_male_100">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:BK_CUSTOMER.My.Resources.Resources.icons8_back_arrow_100">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:BK_CUSTOMER.My.Resources.Resources.icons8_book_100">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:BK_CUSTOMER.My.Resources.Resources.icons8_book_64">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:BK_CUSTOMER.My.Resources.Resources.icons8_book_96">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:BK_CUSTOMER.My.Resources.Resources.icons8_book_96__3_">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:BK_CUSTOMER.My.Resources.Resources.icons8_book_96__5_">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:BK_CUSTOMER.My.Resources.Resources.icons8_categorize_90">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:BK_CUSTOMER.My.Resources.Resources.icons8_category_100">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:BK_CUSTOMER.My.Resources.Resources.icons8_category_1001">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:BK_CUSTOMER.My.Resources.Resources.icons8_circle_96__1_">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:BK_CUSTOMER.My.Resources.Resources.icons8_circle_96__1_1">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:BK_CUSTOMER.My.Resources.Resources.icons8_circle_96__1_2">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:BK_CUSTOMER.My.Resources.Resources.icons8_contact_us_96">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:BK_CUSTOMER.My.Resources.Resources.icons8_denied_96">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:BK_CUSTOMER.My.Resources.Resources.icons8_eye_96">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:BK_CUSTOMER.My.Resources.Resources.icons8_hide_96">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:BK_CUSTOMER.My.Resources.Resources.icons8_home_384">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:BK_CUSTOMER.My.Resources.Resources.icons8_logout_rounded_left_52">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:BK_CUSTOMER.My.Resources.Resources.icons8_room_100">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:BK_CUSTOMER.My.Resources.Resources.icons8_room_1001">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:BK_CUSTOMER.My.Resources.Resources.icons8_room_1002">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:BK_CUSTOMER.My.Resources.Resources.icons8_search_250">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:BK_CUSTOMER.My.Resources.Resources.icons8_search_2501">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:BK_CUSTOMER.My.Resources.Resources.icons8_settings_384">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:BK_CUSTOMER.My.Resources.Resources.icons8_tags_80">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:BK_CUSTOMER.My.Resources.Resources.icons8_tags_80__1_">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:BK_CUSTOMER.My.Resources.Resources.IMG_20200708_WA0041">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:BK_CUSTOMER.My.Resources.Resources.IMG_8807">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:BK_CUSTOMER.My.Resources.Resources.living_in_the_light">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:BK_CUSTOMER.My.Resources.Resources.LOCK">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:BK_CUSTOMER.My.Resources.Resources.marathi_1">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:BK_CUSTOMER.My.Resources.Resources.pngtree_human_book_education_logo_icon_vector_template_image_323436_removebg_preview__1_">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:BK_CUSTOMER.My.Resources.Resources.po">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:BK_CUSTOMER.My.Resources.Resources.politics">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:BK_CUSTOMER.My.Resources.Resources.refresh">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:BK_CUSTOMER.My.Resources.Resources.romance">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:BK_CUSTOMER.My.Resources.Resources.science_fiction">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:BK_CUSTOMER.My.Resources.Resources.secret_wisdom">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:BK_CUSTOMER.My.Resources.Resources.sexuility">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:BK_CUSTOMER.My.Resources.Resources.The_yoga">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:BK_CUSTOMER.My.Resources.Resources.travel">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:BK_CUSTOMER.My.Resources.Resources.travel1">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:BK_CUSTOMER.My.Resources.Resources.UNLOCK">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:BK_CUSTOMER.My.Resources.Resources.Untitled_1">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:BK_CUSTOMER.My.Resources.Resources.young_adult">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:BK_CUSTOMER.My.Resources.Resources.young_reader">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+</members>
+</doc>

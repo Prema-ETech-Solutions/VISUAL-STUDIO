@@ -1,0 +1,13 @@
+E:\FUTURE WORK\VISUAL STUDIO\C# BASE PROGRAM\User_input\bin\Debug\netcoreapp3.1\User_input.exe
+E:\FUTURE WORK\VISUAL STUDIO\C# BASE PROGRAM\User_input\bin\Debug\netcoreapp3.1\User_input.deps.json
+E:\FUTURE WORK\VISUAL STUDIO\C# BASE PROGRAM\User_input\bin\Debug\netcoreapp3.1\User_input.runtimeconfig.json
+E:\FUTURE WORK\VISUAL STUDIO\C# BASE PROGRAM\User_input\bin\Debug\netcoreapp3.1\User_input.runtimeconfig.dev.json
+E:\FUTURE WORK\VISUAL STUDIO\C# BASE PROGRAM\User_input\bin\Debug\netcoreapp3.1\User_input.dll
+E:\FUTURE WORK\VISUAL STUDIO\C# BASE PROGRAM\User_input\bin\Debug\netcoreapp3.1\User_input.pdb
+E:\FUTURE WORK\VISUAL STUDIO\C# BASE PROGRAM\User_input\obj\Debug\netcoreapp3.1\User_input.csprojAssemblyReference.cache
+E:\FUTURE WORK\VISUAL STUDIO\C# BASE PROGRAM\User_input\obj\Debug\netcoreapp3.1\User_input.csproj.CoreCompileInputs.cache
+E:\FUTURE WORK\VISUAL STUDIO\C# BASE PROGRAM\User_input\obj\Debug\netcoreapp3.1\User_input.AssemblyInfoInputs.cache
+E:\FUTURE WORK\VISUAL STUDIO\C# BASE PROGRAM\User_input\obj\Debug\netcoreapp3.1\User_input.AssemblyInfo.cs
+E:\FUTURE WORK\VISUAL STUDIO\C# BASE PROGRAM\User_input\obj\Debug\netcoreapp3.1\User_input.dll
+E:\FUTURE WORK\VISUAL STUDIO\C# BASE PROGRAM\User_input\obj\Debug\netcoreapp3.1\User_input.pdb
+E:\FUTURE WORK\VISUAL STUDIO\C# BASE PROGRAM\User_input\obj\Debug\netcoreapp3.1\User_input.genruntimeconfig.cache

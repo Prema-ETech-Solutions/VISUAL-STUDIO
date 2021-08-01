@@ -1,0 +1,149 @@
+C:\Users\Amey D\source\repos\BKSTORE\BKSTORE\bin\Debug\BKSTORE.exe.config
+C:\Users\Amey D\source\repos\BKSTORE\BKSTORE\bin\Debug\BKSTORE.exe
+C:\Users\Amey D\source\repos\BKSTORE\BKSTORE\bin\Debug\BKSTORE.pdb
+C:\Users\Amey D\source\repos\BKSTORE\BKSTORE\bin\Debug\BKSTORE.xml
+C:\Users\Amey D\source\repos\BKSTORE\BKSTORE\bin\Debug\Guna.UI.dll
+C:\Users\Amey D\source\repos\BKSTORE\BKSTORE\obj\Debug\BKSTORE.vbprojAssemblyReference.cache
+C:\Users\Amey D\source\repos\BKSTORE\BKSTORE\obj\Debug\BKSTORE.Body.resources
+C:\Users\Amey D\source\repos\BKSTORE\BKSTORE\obj\Debug\BKSTORE.Resources.resources
+C:\Users\Amey D\source\repos\BKSTORE\BKSTORE\obj\Debug\BKSTORE.vbproj.GenerateResource.cache
+C:\Users\Amey D\source\repos\BKSTORE\BKSTORE\obj\Debug\BKSTORE.vbproj.CoreCompileInputs.cache
+C:\Users\Amey D\source\repos\BKSTORE\BKSTORE\obj\Debug\BKSTORE.vbproj.CopyComplete
+C:\Users\Amey D\source\repos\BKSTORE\BKSTORE\obj\Debug\BKSTORE.exe
+C:\Users\Amey D\source\repos\BKSTORE\BKSTORE\obj\Debug\BKSTORE.xml
+C:\Users\Amey D\source\repos\BKSTORE\BKSTORE\obj\Debug\BKSTORE.pdb
+C:\Users\FCS SERVER\Desktop\BKSTORE\BKSTORE\bin\Debug\BKSTORE.exe.config
+C:\Users\FCS SERVER\Desktop\BKSTORE\BKSTORE\bin\Debug\BKSTORE.exe
+C:\Users\FCS SERVER\Desktop\BKSTORE\BKSTORE\bin\Debug\BKSTORE.pdb
+C:\Users\FCS SERVER\Desktop\BKSTORE\BKSTORE\bin\Debug\BKSTORE.xml
+C:\Users\FCS SERVER\Desktop\BKSTORE\BKSTORE\obj\Debug\BKSTORE.vbprojAssemblyReference.cache
+C:\Users\FCS SERVER\Desktop\BKSTORE\BKSTORE\obj\Debug\BKSTORE.Body.resources
+C:\Users\FCS SERVER\Desktop\BKSTORE\BKSTORE\obj\Debug\BKSTORE.Resources.resources
+C:\Users\FCS SERVER\Desktop\BKSTORE\BKSTORE\obj\Debug\BKSTORE.vbproj.GenerateResource.cache
+C:\Users\FCS SERVER\Desktop\BKSTORE\BKSTORE\obj\Debug\BKSTORE.vbproj.CoreCompileInputs.cache
+C:\Users\FCS SERVER\Desktop\BKSTORE\BKSTORE\obj\Debug\BKSTORE.vbproj.CopyComplete
+C:\Users\FCS SERVER\Desktop\BKSTORE\BKSTORE\obj\Debug\BKSTORE.exe
+C:\Users\FCS SERVER\Desktop\BKSTORE\BKSTORE\obj\Debug\BKSTORE.xml
+C:\Users\FCS SERVER\Desktop\BKSTORE\BKSTORE\obj\Debug\BKSTORE.pdb
+C:\Users\FCS SERVER\Desktop\BKSTORE\BKSTORE\bin\Debug\Guna.UI2.dll
+C:\Users\Amey D\Desktop\BKSTORE\BKSTORE\bin\Debug\BKSTORE.exe.config
+C:\Users\Amey D\Desktop\BKSTORE\BKSTORE\bin\Debug\BKSTORE.exe
+C:\Users\Amey D\Desktop\BKSTORE\BKSTORE\bin\Debug\BKSTORE.pdb
+C:\Users\Amey D\Desktop\BKSTORE\BKSTORE\bin\Debug\BKSTORE.xml
+C:\Users\Amey D\Desktop\BKSTORE\BKSTORE\obj\Debug\BKSTORE.vbprojAssemblyReference.cache
+C:\Users\Amey D\Desktop\BKSTORE\BKSTORE\obj\Debug\BKSTORE.Body.resources
+C:\Users\Amey D\Desktop\BKSTORE\BKSTORE\obj\Debug\BKSTORE.Resources.resources
+C:\Users\Amey D\Desktop\BKSTORE\BKSTORE\obj\Debug\BKSTORE.vbproj.GenerateResource.cache
+C:\Users\Amey D\Desktop\BKSTORE\BKSTORE\obj\Debug\BKSTORE.vbproj.CoreCompileInputs.cache
+C:\Users\Amey D\Desktop\BKSTORE\BKSTORE\obj\Debug\BKSTORE.vbproj.CopyComplete
+C:\Users\Amey D\Desktop\BKSTORE\BKSTORE\obj\Debug\BKSTORE.exe
+C:\Users\Amey D\Desktop\BKSTORE\BKSTORE\obj\Debug\BKSTORE.xml
+C:\Users\Amey D\Desktop\BKSTORE\BKSTORE\obj\Debug\BKSTORE.pdb
+E:\FUTURE WORK\VISUAL STUDIO\VB.NET BASE PROGRAM\Project\BKSTORE\BKSTORE\BKSTORE\bin\Debug\BKSTORE.exe.config
+E:\FUTURE WORK\VISUAL STUDIO\VB.NET BASE PROGRAM\Project\BKSTORE\BKSTORE\BKSTORE\bin\Debug\BKSTORE.exe
+E:\FUTURE WORK\VISUAL STUDIO\VB.NET BASE PROGRAM\Project\BKSTORE\BKSTORE\BKSTORE\bin\Debug\BKSTORE.pdb
+E:\FUTURE WORK\VISUAL STUDIO\VB.NET BASE PROGRAM\Project\BKSTORE\BKSTORE\BKSTORE\bin\Debug\BKSTORE.xml
+E:\FUTURE WORK\VISUAL STUDIO\VB.NET BASE PROGRAM\Project\BKSTORE\BKSTORE\BKSTORE\obj\Debug\BKSTORE.vbprojAssemblyReference.cache
+E:\FUTURE WORK\VISUAL STUDIO\VB.NET BASE PROGRAM\Project\BKSTORE\BKSTORE\BKSTORE\obj\Debug\BKSTORE.Body.resources
+E:\FUTURE WORK\VISUAL STUDIO\VB.NET BASE PROGRAM\Project\BKSTORE\BKSTORE\BKSTORE\obj\Debug\BKSTORE.Resources.resources
+E:\FUTURE WORK\VISUAL STUDIO\VB.NET BASE PROGRAM\Project\BKSTORE\BKSTORE\BKSTORE\obj\Debug\BKSTORE.vbproj.GenerateResource.cache
+E:\FUTURE WORK\VISUAL STUDIO\VB.NET BASE PROGRAM\Project\BKSTORE\BKSTORE\BKSTORE\obj\Debug\BKSTORE.vbproj.CoreCompileInputs.cache
+E:\FUTURE WORK\VISUAL STUDIO\VB.NET BASE PROGRAM\Project\BKSTORE\BKSTORE\BKSTORE\obj\Debug\BKSTORE.vbproj.CopyComplete
+E:\FUTURE WORK\VISUAL STUDIO\VB.NET BASE PROGRAM\Project\BKSTORE\BKSTORE\BKSTORE\obj\Debug\BKSTORE.exe
+E:\FUTURE WORK\VISUAL STUDIO\VB.NET BASE PROGRAM\Project\BKSTORE\BKSTORE\BKSTORE\obj\Debug\BKSTORE.xml
+E:\FUTURE WORK\VISUAL STUDIO\VB.NET BASE PROGRAM\Project\BKSTORE\BKSTORE\BKSTORE\obj\Debug\BKSTORE.pdb
+E:\FUTURE WORK\VISUAL STUDIO\VB.NET BASE PROGRAM\Project\BKSTORE\BKSTORE\BKSTORE\bin\Debug\MySql.Data.dll
+E:\FUTURE WORK\VISUAL STUDIO\VB.NET BASE PROGRAM\Project\BKSTORE\BKSTORE\BKSTORE\bin\Debug\MySql.Data.Entity.EF6.dll
+E:\FUTURE WORK\VISUAL STUDIO\VB.NET BASE PROGRAM\Project\BKSTORE\BKSTORE\BKSTORE\bin\Debug\MySql.Data.xml
+E:\FUTURE WORK\VISUAL STUDIO\VB.NET BASE PROGRAM\Project\BKSTORE\BKSTORE\BKSTORE\bin\Debug\MySql.Data.Entity.EF6.xml
+C:\Users\Amey D\Desktop\BKSTORE\BKSTORE\BKSTORE\bin\Debug\BKSTORE.exe.config
+C:\Users\Amey D\Desktop\BKSTORE\BKSTORE\BKSTORE\bin\Debug\BKSTORE.exe
+C:\Users\Amey D\Desktop\BKSTORE\BKSTORE\BKSTORE\bin\Debug\BKSTORE.pdb
+C:\Users\Amey D\Desktop\BKSTORE\BKSTORE\BKSTORE\bin\Debug\BKSTORE.xml
+C:\Users\Amey D\Desktop\BKSTORE\BKSTORE\BKSTORE\bin\Debug\Guna.UI.dll
+C:\Users\Amey D\Desktop\BKSTORE\BKSTORE\BKSTORE\bin\Debug\MySql.Data.xml
+C:\Users\Amey D\Desktop\BKSTORE\BKSTORE\BKSTORE\bin\Debug\MySql.Data.Entity.EF6.xml
+C:\Users\Amey D\Desktop\BKSTORE\BKSTORE\BKSTORE\obj\Debug\BKSTORE.vbprojAssemblyReference.cache
+C:\Users\Amey D\Desktop\BKSTORE\BKSTORE\BKSTORE\obj\Debug\BKSTORE.Body.resources
+C:\Users\Amey D\Desktop\BKSTORE\BKSTORE\BKSTORE\obj\Debug\BKSTORE.Resources.resources
+C:\Users\Amey D\Desktop\BKSTORE\BKSTORE\BKSTORE\obj\Debug\BKSTORE.vbproj.GenerateResource.cache
+C:\Users\Amey D\Desktop\BKSTORE\BKSTORE\BKSTORE\obj\Debug\BKSTORE.vbproj.CoreCompileInputs.cache
+C:\Users\Amey D\Desktop\BKSTORE\BKSTORE\BKSTORE\obj\Debug\BKSTORE.vbproj.CopyComplete
+C:\Users\Amey D\Desktop\BKSTORE\BKSTORE\BKSTORE\obj\Debug\BKSTORE.exe
+C:\Users\Amey D\Desktop\BKSTORE\BKSTORE\BKSTORE\obj\Debug\BKSTORE.xml
+C:\Users\Amey D\Desktop\BKSTORE\BKSTORE\BKSTORE\obj\Debug\BKSTORE.pdb
+C:\Users\Amey D\Desktop\BKSTORE\BKSTORE\BKSTORE\obj\Debug\BKSTORE.BK_SELLER_LOADING.resources
+C:\Users\Vinay Kene\Downloads\Spacetech book_1.2 (1)\Spacetech book\BKSTORE\BKSTORE\BKSTORE\bin\Debug\BKSTORE.exe.config
+C:\Users\Vinay Kene\Downloads\Spacetech book_1.2 (1)\Spacetech book\BKSTORE\BKSTORE\BKSTORE\bin\Debug\BKSTORE.exe
+C:\Users\Vinay Kene\Downloads\Spacetech book_1.2 (1)\Spacetech book\BKSTORE\BKSTORE\BKSTORE\bin\Debug\BKSTORE.pdb
+C:\Users\Vinay Kene\Downloads\Spacetech book_1.2 (1)\Spacetech book\BKSTORE\BKSTORE\BKSTORE\bin\Debug\BKSTORE.xml
+C:\Users\Vinay Kene\Downloads\Spacetech book_1.2 (1)\Spacetech book\BKSTORE\BKSTORE\BKSTORE\bin\Debug\MySql.Data.xml
+C:\Users\Vinay Kene\Downloads\Spacetech book_1.2 (1)\Spacetech book\BKSTORE\BKSTORE\BKSTORE\bin\Debug\MySql.Data.Entity.EF6.xml
+C:\Users\Vinay Kene\Downloads\Spacetech book_1.2 (1)\Spacetech book\BKSTORE\BKSTORE\BKSTORE\obj\Debug\BKSTORE.vbprojAssemblyReference.cache
+C:\Users\Vinay Kene\Downloads\Spacetech book_1.2 (1)\Spacetech book\BKSTORE\BKSTORE\BKSTORE\obj\Debug\BKSTORE.Body.resources
+C:\Users\Vinay Kene\Downloads\Spacetech book_1.2 (1)\Spacetech book\BKSTORE\BKSTORE\BKSTORE\obj\Debug\BKSTORE.BK_SELLER_LOADING.resources
+C:\Users\Vinay Kene\Downloads\Spacetech book_1.2 (1)\Spacetech book\BKSTORE\BKSTORE\BKSTORE\obj\Debug\BKSTORE.Resources.resources
+C:\Users\Vinay Kene\Downloads\Spacetech book_1.2 (1)\Spacetech book\BKSTORE\BKSTORE\BKSTORE\obj\Debug\BKSTORE.vbproj.GenerateResource.cache
+C:\Users\Vinay Kene\Downloads\Spacetech book_1.2 (1)\Spacetech book\BKSTORE\BKSTORE\BKSTORE\obj\Debug\BKSTORE.vbproj.CoreCompileInputs.cache
+C:\Users\Vinay Kene\Downloads\Spacetech book_1.2 (1)\Spacetech book\BKSTORE\BKSTORE\BKSTORE\obj\Debug\BKSTORE.vbproj.CopyComplete
+C:\Users\Vinay Kene\Downloads\Spacetech book_1.2 (1)\Spacetech book\BKSTORE\BKSTORE\BKSTORE\obj\Debug\BKSTORE.exe
+C:\Users\Vinay Kene\Downloads\Spacetech book_1.2 (1)\Spacetech book\BKSTORE\BKSTORE\BKSTORE\obj\Debug\BKSTORE.xml
+C:\Users\Vinay Kene\Downloads\Spacetech book_1.2 (1)\Spacetech book\BKSTORE\BKSTORE\BKSTORE\obj\Debug\BKSTORE.pdb
+E:\FUTURE WORK\VISUAL STUDIO\VB.NET BASE PROGRAM\Project\Spacetech book\BKSTORE\BKSTORE\BKSTORE\bin\Debug\BKSTORE.exe.config
+E:\FUTURE WORK\VISUAL STUDIO\VB.NET BASE PROGRAM\Project\Spacetech book\BKSTORE\BKSTORE\BKSTORE\bin\Debug\BKSTORE.exe
+E:\FUTURE WORK\VISUAL STUDIO\VB.NET BASE PROGRAM\Project\Spacetech book\BKSTORE\BKSTORE\BKSTORE\bin\Debug\BKSTORE.pdb
+E:\FUTURE WORK\VISUAL STUDIO\VB.NET BASE PROGRAM\Project\Spacetech book\BKSTORE\BKSTORE\BKSTORE\bin\Debug\BKSTORE.xml
+E:\FUTURE WORK\VISUAL STUDIO\VB.NET BASE PROGRAM\Project\Spacetech book\BKSTORE\BKSTORE\BKSTORE\bin\Debug\MySql.Data.xml
+E:\FUTURE WORK\VISUAL STUDIO\VB.NET BASE PROGRAM\Project\Spacetech book\BKSTORE\BKSTORE\BKSTORE\bin\Debug\MySql.Data.Entity.EF6.xml
+E:\FUTURE WORK\VISUAL STUDIO\VB.NET BASE PROGRAM\Project\Spacetech book\BKSTORE\BKSTORE\BKSTORE\obj\Debug\BKSTORE.vbprojAssemblyReference.cache
+E:\FUTURE WORK\VISUAL STUDIO\VB.NET BASE PROGRAM\Project\Spacetech book\BKSTORE\BKSTORE\BKSTORE\obj\Debug\BKSTORE.Body.resources
+E:\FUTURE WORK\VISUAL STUDIO\VB.NET BASE PROGRAM\Project\Spacetech book\BKSTORE\BKSTORE\BKSTORE\obj\Debug\BKSTORE.BK_SELLER_LOADING.resources
+E:\FUTURE WORK\VISUAL STUDIO\VB.NET BASE PROGRAM\Project\Spacetech book\BKSTORE\BKSTORE\BKSTORE\obj\Debug\BKSTORE.Resources.resources
+E:\FUTURE WORK\VISUAL STUDIO\VB.NET BASE PROGRAM\Project\Spacetech book\BKSTORE\BKSTORE\BKSTORE\obj\Debug\BKSTORE.vbproj.GenerateResource.cache
+E:\FUTURE WORK\VISUAL STUDIO\VB.NET BASE PROGRAM\Project\Spacetech book\BKSTORE\BKSTORE\BKSTORE\obj\Debug\BKSTORE.vbproj.CoreCompileInputs.cache
+E:\FUTURE WORK\VISUAL STUDIO\VB.NET BASE PROGRAM\Project\Spacetech book\BKSTORE\BKSTORE\BKSTORE\obj\Debug\BKSTORE.vbproj.CopyComplete
+E:\FUTURE WORK\VISUAL STUDIO\VB.NET BASE PROGRAM\Project\Spacetech book\BKSTORE\BKSTORE\BKSTORE\obj\Debug\BKSTORE.exe
+E:\FUTURE WORK\VISUAL STUDIO\VB.NET BASE PROGRAM\Project\Spacetech book\BKSTORE\BKSTORE\BKSTORE\obj\Debug\BKSTORE.xml
+E:\FUTURE WORK\VISUAL STUDIO\VB.NET BASE PROGRAM\Project\Spacetech book\BKSTORE\BKSTORE\BKSTORE\obj\Debug\BKSTORE.pdb
+C:\Users\Amey D\Desktop\Spacetech book\BKSTORE\BKSTORE\BKSTORE\obj\Debug\BKSTORE.vbprojAssemblyReference.cache
+C:\Users\Amey D\Desktop\Spacetech book\BKSTORE\BKSTORE\BKSTORE\obj\Debug\BKSTORE.Body.resources
+C:\Users\Amey D\Desktop\Spacetech book\BKSTORE\BKSTORE\BKSTORE\obj\Debug\BKSTORE.BK_SELLER_LOADING.resources
+C:\Users\Amey D\Desktop\Spacetech book\BKSTORE\BKSTORE\BKSTORE\obj\Debug\BKSTORE.vbproj.GenerateResource.cache
+C:\Users\Amey D\Desktop\Spacetech book\BKSTORE\BKSTORE\BKSTORE\obj\Debug\BKSTORE.exe
+C:\Users\Amey D\Desktop\Spacetech book\BKSTORE\BKSTORE\BKSTORE\obj\Debug\BKSTORE.xml
+C:\Users\Amey D\Desktop\Spacetech book\BKSTORE\BKSTORE\BKSTORE\obj\Debug\BKSTORE.pdb
+C:\Users\Amey D\Desktop\Spacetech book\BKSTORE\BKSTORE\BKSTORE\bin\Debug\BKSTORE.exe.config
+C:\Users\Amey D\Desktop\Spacetech book\BKSTORE\BKSTORE\BKSTORE\bin\Debug\BKSTORE.exe
+C:\Users\Amey D\Desktop\Spacetech book\BKSTORE\BKSTORE\BKSTORE\bin\Debug\BKSTORE.pdb
+C:\Users\Amey D\Desktop\Spacetech book\BKSTORE\BKSTORE\BKSTORE\bin\Debug\BKSTORE.xml
+C:\Users\Amey D\Desktop\Spacetech book\BKSTORE\BKSTORE\BKSTORE\bin\Debug\MySql.Data.xml
+C:\Users\Amey D\Desktop\Spacetech book\BKSTORE\BKSTORE\BKSTORE\bin\Debug\MySql.Data.Entity.EF6.xml
+C:\Users\Amey D\Desktop\Spacetech book\BKSTORE\BKSTORE\BKSTORE\obj\Debug\BKSTORE.Resources.resources
+C:\Users\Amey D\Desktop\Spacetech book\BKSTORE\BKSTORE\BKSTORE\obj\Debug\BKSTORE.vbproj.CoreCompileInputs.cache
+C:\Users\Amey D\Desktop\Spacetech book\BKSTORE\BKSTORE\BKSTORE\obj\Debug\BKSTORE.vbproj.CopyComplete
+C:\Users\Amey D\Desktop\Spacetech book\BKSTORE\BKSTORE\BKSTORE\bin\Debug\Bunifu_UI_v1.5.3.dll
+C:\Users\Amey D\Desktop\Spacetech book\BKSTORE\BKSTORE\BKSTORE\bin\Debug\Bunifu_UI_v1.5.3.xml
+C:\Users\Amey D\Desktop\Spacetech book\BKSTORE\BKSTORE\BKSTORE\bin\Debug\Bunifu.UI.WinForms.BunifuButton.dll
+C:\Users\Amey D\Desktop\Spacetech book\BKSTORE\BKSTORE\BKSTORE\bin\Debug\Bunifu.UI.WinForms.BunifuLabel.dll
+C:\Users\Amey D\Desktop\Spacetech book\BKSTORE\BKSTORE\BKSTORE\bin\Debug\Bunifu.UI.WinForms.BunifuPictureBox.dll
+C:\Users\Amey D\Desktop\Spacetech book\BKSTORE\BKSTORE\BKSTORE\bin\Debug\Bunifu.Core.dll
+C:\Users\Amey D\Desktop\Spacetech book\BKSTORE\BKSTORE\BKSTORE\bin\Debug\Bunifu.UI.WinForms.BunifuButton.xml
+C:\Users\Amey D\Desktop\Spacetech book\BKSTORE\BKSTORE\BKSTORE\bin\Debug\Bunifu.UI.WinForms.BunifuLabel.xml
+C:\Users\Amey D\Desktop\Spacetech book\BKSTORE\BKSTORE\BKSTORE\bin\Debug\Bunifu.UI.WinForms.BunifuPictureBox.xml
+C:\Users\Amey D\Desktop\Spacetech book\BKSTORE\BKSTORE\BKSTORE\obj\Debug\BKSTORE.exe.config
+C:\Users\Amey D\Desktop\Spacetech book\BKSTORE\BKSTORE\BKSTORE\bin\Debug\Interop.AcroPDFLib.dll
+C:\Users\Amey D\Desktop\Spacetech book\BKSTORE\BKSTORE\BKSTORE\bin\Debug\AxInterop.AcroPDFLib.dll
+C:\Users\Amey D\Desktop\Spacetech book\BKSTORE\BKSTORE\BKSTORE\obj\Debug\Interop.AcroPDFLib.dll
+C:\Users\Amey D\Desktop\Spacetech book\BKSTORE\BKSTORE\BKSTORE\obj\Debug\AxInterop.AcroPDFLib.dll
+C:\Users\Amey D\Desktop\Spacetech book\BKSTORE\BKSTORE\BKSTORE\obj\Debug\BKSTORE.vbproj.ResolveComReference.cache
+E:\FUTURE WORK\VISUAL STUDIO\VB.NET BASE PROGRAM\Project\Spacetech book\BKSTORE\BKSTORE\BKSTORE\bin\Debug\Bunifu.Core.dll
+E:\FUTURE WORK\VISUAL STUDIO\VB.NET BASE PROGRAM\Project\Spacetech book\BKSTORE\BKSTORE\BKSTORE\bin\Debug\Bunifu.UI.WinForms.BunifuButton.xml
+E:\FUTURE WORK\VISUAL STUDIO\VB.NET BASE PROGRAM\Project\Spacetech book\BKSTORE\BKSTORE\BKSTORE\bin\Debug\Bunifu.UI.WinForms.BunifuLabel.xml
+E:\FUTURE WORK\VISUAL STUDIO\VB.NET BASE PROGRAM\Project\Spacetech book\BKSTORE\BKSTORE\BKSTORE\bin\Debug\Bunifu.UI.WinForms.BunifuPictureBox.xml
+E:\FUTURE WORK\VISUAL STUDIO\VB.NET BASE PROGRAM\Project\Spacetech book\BKSTORE\BKSTORE\BKSTORE\bin\Debug\Bunifu_UI_v1.5.3.xml
+E:\FUTURE WORK\VISUAL STUDIO\VB.NET BASE PROGRAM\Project\Spacetech book\BKSTORE\BKSTORE\BKSTORE\bin\Debug\Interop.AcroPDFLib.dll
+E:\FUTURE WORK\VISUAL STUDIO\VB.NET BASE PROGRAM\Project\Spacetech book\BKSTORE\BKSTORE\BKSTORE\bin\Debug\AxInterop.AcroPDFLib.dll
+E:\FUTURE WORK\VISUAL STUDIO\VB.NET BASE PROGRAM\Project\Spacetech book\BKSTORE\BKSTORE\BKSTORE\obj\Debug\BKSTORE.exe.config
+E:\FUTURE WORK\VISUAL STUDIO\VB.NET BASE PROGRAM\Project\Spacetech book\BKSTORE\BKSTORE\BKSTORE\obj\Debug\Interop.AcroPDFLib.dll
+E:\FUTURE WORK\VISUAL STUDIO\VB.NET BASE PROGRAM\Project\Spacetech book\BKSTORE\BKSTORE\BKSTORE\obj\Debug\AxInterop.AcroPDFLib.dll
+E:\FUTURE WORK\VISUAL STUDIO\VB.NET BASE PROGRAM\Project\Spacetech book\BKSTORE\BKSTORE\BKSTORE\obj\Debug\BKSTORE.vbproj.ResolveComReference.cache

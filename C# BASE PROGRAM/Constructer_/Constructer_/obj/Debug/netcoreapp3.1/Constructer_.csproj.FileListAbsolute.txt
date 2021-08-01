@@ -1,0 +1,13 @@
+E:\FUTURE WORK\VISUAL STUDIO\C# BASE PROGRAM\Constructer_\Constructer_\bin\Debug\netcoreapp3.1\Constructer_.exe
+E:\FUTURE WORK\VISUAL STUDIO\C# BASE PROGRAM\Constructer_\Constructer_\bin\Debug\netcoreapp3.1\Constructer_.deps.json
+E:\FUTURE WORK\VISUAL STUDIO\C# BASE PROGRAM\Constructer_\Constructer_\bin\Debug\netcoreapp3.1\Constructer_.runtimeconfig.json
+E:\FUTURE WORK\VISUAL STUDIO\C# BASE PROGRAM\Constructer_\Constructer_\bin\Debug\netcoreapp3.1\Constructer_.runtimeconfig.dev.json
+E:\FUTURE WORK\VISUAL STUDIO\C# BASE PROGRAM\Constructer_\Constructer_\bin\Debug\netcoreapp3.1\Constructer_.dll
+E:\FUTURE WORK\VISUAL STUDIO\C# BASE PROGRAM\Constructer_\Constructer_\bin\Debug\netcoreapp3.1\Constructer_.pdb
+E:\FUTURE WORK\VISUAL STUDIO\C# BASE PROGRAM\Constructer_\Constructer_\obj\Debug\netcoreapp3.1\Constructer_.csprojAssemblyReference.cache
+E:\FUTURE WORK\VISUAL STUDIO\C# BASE PROGRAM\Constructer_\Constructer_\obj\Debug\netcoreapp3.1\Constructer_.AssemblyInfoInputs.cache
+E:\FUTURE WORK\VISUAL STUDIO\C# BASE PROGRAM\Constructer_\Constructer_\obj\Debug\netcoreapp3.1\Constructer_.AssemblyInfo.cs
+E:\FUTURE WORK\VISUAL STUDIO\C# BASE PROGRAM\Constructer_\Constructer_\obj\Debug\netcoreapp3.1\Constructer_.csproj.CoreCompileInputs.cache
+E:\FUTURE WORK\VISUAL STUDIO\C# BASE PROGRAM\Constructer_\Constructer_\obj\Debug\netcoreapp3.1\Constructer_.dll
+E:\FUTURE WORK\VISUAL STUDIO\C# BASE PROGRAM\Constructer_\Constructer_\obj\Debug\netcoreapp3.1\Constructer_.pdb
+E:\FUTURE WORK\VISUAL STUDIO\C# BASE PROGRAM\Constructer_\Constructer_\obj\Debug\netcoreapp3.1\Constructer_.genruntimeconfig.cache

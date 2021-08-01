@@ -1,0 +1,13 @@
+E:\FUTURE WORK\VISUAL STUDIO\C# BASE PROGRAM\Math\Math\bin\Debug\netcoreapp3.1\Math.exe
+E:\FUTURE WORK\VISUAL STUDIO\C# BASE PROGRAM\Math\Math\bin\Debug\netcoreapp3.1\Math.deps.json
+E:\FUTURE WORK\VISUAL STUDIO\C# BASE PROGRAM\Math\Math\bin\Debug\netcoreapp3.1\Math.runtimeconfig.json
+E:\FUTURE WORK\VISUAL STUDIO\C# BASE PROGRAM\Math\Math\bin\Debug\netcoreapp3.1\Math.runtimeconfig.dev.json
+E:\FUTURE WORK\VISUAL STUDIO\C# BASE PROGRAM\Math\Math\bin\Debug\netcoreapp3.1\Math.dll
+E:\FUTURE WORK\VISUAL STUDIO\C# BASE PROGRAM\Math\Math\bin\Debug\netcoreapp3.1\Math.pdb
+E:\FUTURE WORK\VISUAL STUDIO\C# BASE PROGRAM\Math\Math\obj\Debug\netcoreapp3.1\Math.csprojAssemblyReference.cache
+E:\FUTURE WORK\VISUAL STUDIO\C# BASE PROGRAM\Math\Math\obj\Debug\netcoreapp3.1\Math.AssemblyInfoInputs.cache
+E:\FUTURE WORK\VISUAL STUDIO\C# BASE PROGRAM\Math\Math\obj\Debug\netcoreapp3.1\Math.AssemblyInfo.cs
+E:\FUTURE WORK\VISUAL STUDIO\C# BASE PROGRAM\Math\Math\obj\Debug\netcoreapp3.1\Math.csproj.CoreCompileInputs.cache
+E:\FUTURE WORK\VISUAL STUDIO\C# BASE PROGRAM\Math\Math\obj\Debug\netcoreapp3.1\Math.dll
+E:\FUTURE WORK\VISUAL STUDIO\C# BASE PROGRAM\Math\Math\obj\Debug\netcoreapp3.1\Math.pdb
+E:\FUTURE WORK\VISUAL STUDIO\C# BASE PROGRAM\Math\Math\obj\Debug\netcoreapp3.1\Math.genruntimeconfig.cache

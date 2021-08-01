@@ -1,0 +1,13 @@
+E:\FUTURE WORK\VISUAL STUDIO\C# BASE PROGRAM\Switch__\Switch__\bin\Debug\netcoreapp3.1\Switch__.exe
+E:\FUTURE WORK\VISUAL STUDIO\C# BASE PROGRAM\Switch__\Switch__\bin\Debug\netcoreapp3.1\Switch__.deps.json
+E:\FUTURE WORK\VISUAL STUDIO\C# BASE PROGRAM\Switch__\Switch__\bin\Debug\netcoreapp3.1\Switch__.runtimeconfig.json
+E:\FUTURE WORK\VISUAL STUDIO\C# BASE PROGRAM\Switch__\Switch__\bin\Debug\netcoreapp3.1\Switch__.runtimeconfig.dev.json
+E:\FUTURE WORK\VISUAL STUDIO\C# BASE PROGRAM\Switch__\Switch__\bin\Debug\netcoreapp3.1\Switch__.dll
+E:\FUTURE WORK\VISUAL STUDIO\C# BASE PROGRAM\Switch__\Switch__\bin\Debug\netcoreapp3.1\Switch__.pdb
+E:\FUTURE WORK\VISUAL STUDIO\C# BASE PROGRAM\Switch__\Switch__\obj\Debug\netcoreapp3.1\Switch__.AssemblyInfoInputs.cache
+E:\FUTURE WORK\VISUAL STUDIO\C# BASE PROGRAM\Switch__\Switch__\obj\Debug\netcoreapp3.1\Switch__.AssemblyInfo.cs
+E:\FUTURE WORK\VISUAL STUDIO\C# BASE PROGRAM\Switch__\Switch__\obj\Debug\netcoreapp3.1\Switch__.csproj.CoreCompileInputs.cache
+E:\FUTURE WORK\VISUAL STUDIO\C# BASE PROGRAM\Switch__\Switch__\obj\Debug\netcoreapp3.1\Switch__.dll
+E:\FUTURE WORK\VISUAL STUDIO\C# BASE PROGRAM\Switch__\Switch__\obj\Debug\netcoreapp3.1\Switch__.pdb
+E:\FUTURE WORK\VISUAL STUDIO\C# BASE PROGRAM\Switch__\Switch__\obj\Debug\netcoreapp3.1\Switch__.genruntimeconfig.cache
+E:\FUTURE WORK\VISUAL STUDIO\C# BASE PROGRAM\Switch__\Switch__\obj\Debug\netcoreapp3.1\Switch__.csprojAssemblyReference.cache

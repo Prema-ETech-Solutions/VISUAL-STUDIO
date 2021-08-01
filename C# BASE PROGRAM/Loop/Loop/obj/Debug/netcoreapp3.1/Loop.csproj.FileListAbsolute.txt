@@ -1,0 +1,13 @@
+E:\FUTURE WORK\VISUAL STUDIO\C# BASE PROGRAM\Loop\Loop\bin\Debug\netcoreapp3.1\Loop.exe
+E:\FUTURE WORK\VISUAL STUDIO\C# BASE PROGRAM\Loop\Loop\bin\Debug\netcoreapp3.1\Loop.deps.json
+E:\FUTURE WORK\VISUAL STUDIO\C# BASE PROGRAM\Loop\Loop\bin\Debug\netcoreapp3.1\Loop.runtimeconfig.json
+E:\FUTURE WORK\VISUAL STUDIO\C# BASE PROGRAM\Loop\Loop\bin\Debug\netcoreapp3.1\Loop.runtimeconfig.dev.json
+E:\FUTURE WORK\VISUAL STUDIO\C# BASE PROGRAM\Loop\Loop\bin\Debug\netcoreapp3.1\Loop.dll
+E:\FUTURE WORK\VISUAL STUDIO\C# BASE PROGRAM\Loop\Loop\bin\Debug\netcoreapp3.1\Loop.pdb
+E:\FUTURE WORK\VISUAL STUDIO\C# BASE PROGRAM\Loop\Loop\obj\Debug\netcoreapp3.1\Loop.csprojAssemblyReference.cache
+E:\FUTURE WORK\VISUAL STUDIO\C# BASE PROGRAM\Loop\Loop\obj\Debug\netcoreapp3.1\Loop.AssemblyInfoInputs.cache
+E:\FUTURE WORK\VISUAL STUDIO\C# BASE PROGRAM\Loop\Loop\obj\Debug\netcoreapp3.1\Loop.AssemblyInfo.cs
+E:\FUTURE WORK\VISUAL STUDIO\C# BASE PROGRAM\Loop\Loop\obj\Debug\netcoreapp3.1\Loop.csproj.CoreCompileInputs.cache
+E:\FUTURE WORK\VISUAL STUDIO\C# BASE PROGRAM\Loop\Loop\obj\Debug\netcoreapp3.1\Loop.dll
+E:\FUTURE WORK\VISUAL STUDIO\C# BASE PROGRAM\Loop\Loop\obj\Debug\netcoreapp3.1\Loop.pdb
+E:\FUTURE WORK\VISUAL STUDIO\C# BASE PROGRAM\Loop\Loop\obj\Debug\netcoreapp3.1\Loop.genruntimeconfig.cache

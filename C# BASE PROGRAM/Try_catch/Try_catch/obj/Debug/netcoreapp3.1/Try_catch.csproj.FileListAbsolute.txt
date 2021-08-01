@@ -1,0 +1,13 @@
+E:\FUTURE WORK\VISUAL STUDIO\C# BASE PROGRAM\Try_catch\Try_catch\bin\Debug\netcoreapp3.1\Try_catch.exe
+E:\FUTURE WORK\VISUAL STUDIO\C# BASE PROGRAM\Try_catch\Try_catch\bin\Debug\netcoreapp3.1\Try_catch.deps.json
+E:\FUTURE WORK\VISUAL STUDIO\C# BASE PROGRAM\Try_catch\Try_catch\bin\Debug\netcoreapp3.1\Try_catch.runtimeconfig.json
+E:\FUTURE WORK\VISUAL STUDIO\C# BASE PROGRAM\Try_catch\Try_catch\bin\Debug\netcoreapp3.1\Try_catch.runtimeconfig.dev.json
+E:\FUTURE WORK\VISUAL STUDIO\C# BASE PROGRAM\Try_catch\Try_catch\bin\Debug\netcoreapp3.1\Try_catch.dll
+E:\FUTURE WORK\VISUAL STUDIO\C# BASE PROGRAM\Try_catch\Try_catch\bin\Debug\netcoreapp3.1\Try_catch.pdb
+E:\FUTURE WORK\VISUAL STUDIO\C# BASE PROGRAM\Try_catch\Try_catch\obj\Debug\netcoreapp3.1\Try_catch.csprojAssemblyReference.cache
+E:\FUTURE WORK\VISUAL STUDIO\C# BASE PROGRAM\Try_catch\Try_catch\obj\Debug\netcoreapp3.1\Try_catch.AssemblyInfoInputs.cache
+E:\FUTURE WORK\VISUAL STUDIO\C# BASE PROGRAM\Try_catch\Try_catch\obj\Debug\netcoreapp3.1\Try_catch.AssemblyInfo.cs
+E:\FUTURE WORK\VISUAL STUDIO\C# BASE PROGRAM\Try_catch\Try_catch\obj\Debug\netcoreapp3.1\Try_catch.csproj.CoreCompileInputs.cache
+E:\FUTURE WORK\VISUAL STUDIO\C# BASE PROGRAM\Try_catch\Try_catch\obj\Debug\netcoreapp3.1\Try_catch.dll
+E:\FUTURE WORK\VISUAL STUDIO\C# BASE PROGRAM\Try_catch\Try_catch\obj\Debug\netcoreapp3.1\Try_catch.pdb
+E:\FUTURE WORK\VISUAL STUDIO\C# BASE PROGRAM\Try_catch\Try_catch\obj\Debug\netcoreapp3.1\Try_catch.genruntimeconfig.cache

@@ -1,0 +1,24 @@
+C:\Users\NACHIKET UPADHEY\source\repos\email\email\bin\Debug\email.exe.config
+C:\Users\NACHIKET UPADHEY\source\repos\email\email\bin\Debug\email.exe
+C:\Users\NACHIKET UPADHEY\source\repos\email\email\bin\Debug\email.pdb
+C:\Users\NACHIKET UPADHEY\source\repos\email\email\bin\Debug\email.xml
+C:\Users\NACHIKET UPADHEY\source\repos\email\email\obj\Debug\email.vbprojAssemblyReference.cache
+C:\Users\NACHIKET UPADHEY\source\repos\email\email\obj\Debug\email.Form1.resources
+C:\Users\NACHIKET UPADHEY\source\repos\email\email\obj\Debug\email.Resources.resources
+C:\Users\NACHIKET UPADHEY\source\repos\email\email\obj\Debug\email.vbproj.GenerateResource.cache
+C:\Users\NACHIKET UPADHEY\source\repos\email\email\obj\Debug\email.vbproj.CoreCompileInputs.cache
+C:\Users\NACHIKET UPADHEY\source\repos\email\email\obj\Debug\email.exe
+C:\Users\NACHIKET UPADHEY\source\repos\email\email\obj\Debug\email.xml
+C:\Users\NACHIKET UPADHEY\source\repos\email\email\obj\Debug\email.pdb
+E:\FUTURE WORK\VISUAL STUDIO\VB.NET BASE PROGRAM\email\email\bin\Debug\email.exe.config
+E:\FUTURE WORK\VISUAL STUDIO\VB.NET BASE PROGRAM\email\email\bin\Debug\email.exe
+E:\FUTURE WORK\VISUAL STUDIO\VB.NET BASE PROGRAM\email\email\bin\Debug\email.pdb
+E:\FUTURE WORK\VISUAL STUDIO\VB.NET BASE PROGRAM\email\email\bin\Debug\email.xml
+E:\FUTURE WORK\VISUAL STUDIO\VB.NET BASE PROGRAM\email\email\obj\Debug\email.vbprojAssemblyReference.cache
+E:\FUTURE WORK\VISUAL STUDIO\VB.NET BASE PROGRAM\email\email\obj\Debug\email.Form1.resources
+E:\FUTURE WORK\VISUAL STUDIO\VB.NET BASE PROGRAM\email\email\obj\Debug\email.Resources.resources
+E:\FUTURE WORK\VISUAL STUDIO\VB.NET BASE PROGRAM\email\email\obj\Debug\email.vbproj.GenerateResource.cache
+E:\FUTURE WORK\VISUAL STUDIO\VB.NET BASE PROGRAM\email\email\obj\Debug\email.vbproj.CoreCompileInputs.cache
+E:\FUTURE WORK\VISUAL STUDIO\VB.NET BASE PROGRAM\email\email\obj\Debug\email.exe
+E:\FUTURE WORK\VISUAL STUDIO\VB.NET BASE PROGRAM\email\email\obj\Debug\email.xml
+E:\FUTURE WORK\VISUAL STUDIO\VB.NET BASE PROGRAM\email\email\obj\Debug\email.pdb

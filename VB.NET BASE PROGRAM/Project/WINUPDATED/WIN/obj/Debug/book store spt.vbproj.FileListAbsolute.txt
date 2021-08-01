@@ -1,0 +1,341 @@
+C:\Users\AMEY\source\repos\book store spt\book store spt\bin\Debug\book store spt.exe.config
+C:\Users\AMEY\source\repos\book store spt\book store spt\bin\Debug\book store spt.exe
+C:\Users\AMEY\source\repos\book store spt\book store spt\bin\Debug\book store spt.pdb
+C:\Users\AMEY\source\repos\book store spt\book store spt\bin\Debug\book store spt.xml
+C:\Users\AMEY\source\repos\book store spt\book store spt\obj\Debug\book store spt.vbprojAssemblyReference.cache
+C:\Users\AMEY\source\repos\book store spt\book store spt\obj\Debug\book_store_spt.Resources.resources
+C:\Users\AMEY\source\repos\book store spt\book store spt\obj\Debug\book store spt.vbproj.GenerateResource.cache
+C:\Users\AMEY\source\repos\book store spt\book store spt\obj\Debug\book store spt.vbproj.CoreCompileInputs.cache
+C:\Users\AMEY\source\repos\book store spt\book store spt\obj\Debug\book store spt.exe
+C:\Users\AMEY\source\repos\book store spt\book store spt\obj\Debug\book store spt.xml
+C:\Users\AMEY\source\repos\book store spt\book store spt\obj\Debug\book store spt.pdb
+C:\Users\AMEY\source\repos\book store spt\book store spt\obj\Debug\book_store_spt.Form2.resources
+C:\Users\AMEY\source\repos\book store spt\book store spt\obj\Debug\book_store_spt.Form1.resources
+C:\Users\AMEY\source\repos\book store spt\book store spt\obj\Debug\book_store_spt.Form3.resources
+C:\Users\AMEY\source\repos\book store spt\book store spt\obj\Debug\book_store_spt.Form4.resources
+C:\Users\AMEY\source\repos\book store spt\book store spt\obj\Debug\book_store_spt.Form5.resources
+C:\Users\AMEY\source\repos\book store spt\book store spt\obj\Debug\book_store_spt.Form6.resources
+C:\Users\AMEY\source\repos\book store spt\book store spt\bin\Debug\Microsoft.Data.Tools.Components.dll
+C:\Users\AMEY\source\repos\book store spt\book store spt\bin\Debug\Microsoft.Data.Tools.Schema.Sql.dll
+C:\Users\AMEY\source\repos\book store spt\book store spt\bin\Debug\Microsoft.Data.Tools.Schema.Sql.UnitTesting.dll
+C:\Users\AMEY\source\repos\book store spt\book store spt\bin\Debug\Microsoft.Data.Tools.Schema.Sql.UnitTestingAdapter.dll
+C:\Users\AMEY\source\repos\book store spt\book store spt\bin\Debug\Microsoft.Data.Tools.Utilities.dll
+C:\Users\AMEY\source\repos\book store spt\book store spt\bin\Debug\Microsoft.Build.Framework.dll
+C:\Users\AMEY\source\repos\book store spt\book store spt\bin\Debug\Microsoft.SqlServer.TransactSql.ScriptDom.dll
+C:\Users\AMEY\source\repos\book store spt\book store spt\bin\Debug\Microsoft.Build.dll
+C:\Users\AMEY\source\repos\book store spt\book store spt\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\AMEY\source\repos\book store spt\book store spt\bin\Debug\System.Collections.Immutable.dll
+C:\Users\AMEY\source\repos\book store spt\book store spt\bin\Debug\System.Memory.dll
+C:\Users\AMEY\source\repos\book store spt\book store spt\bin\Debug\System.Threading.Tasks.Dataflow.dll
+C:\Users\AMEY\source\repos\book store spt\book store spt\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\AMEY\source\repos\book store spt\book store spt\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\AMEY\source\repos\book store spt\book store spt\bin\Debug\System.Buffers.dll
+C:\Users\AMEY\source\repos\book store spt\book store spt\bin\Debug\cs\Microsoft.Build.resources.dll
+C:\Users\AMEY\source\repos\book store spt\book store spt\bin\Debug\de\Microsoft.Build.resources.dll
+C:\Users\AMEY\source\repos\book store spt\book store spt\bin\Debug\en\Microsoft.Build.resources.dll
+C:\Users\AMEY\source\repos\book store spt\book store spt\bin\Debug\es\Microsoft.Build.resources.dll
+C:\Users\AMEY\source\repos\book store spt\book store spt\bin\Debug\fr\Microsoft.Build.resources.dll
+C:\Users\AMEY\source\repos\book store spt\book store spt\bin\Debug\it\Microsoft.Build.resources.dll
+C:\Users\AMEY\source\repos\book store spt\book store spt\bin\Debug\ja\Microsoft.Build.resources.dll
+C:\Users\AMEY\source\repos\book store spt\book store spt\bin\Debug\ko\Microsoft.Build.resources.dll
+C:\Users\AMEY\source\repos\book store spt\book store spt\bin\Debug\pl\Microsoft.Build.resources.dll
+C:\Users\AMEY\source\repos\book store spt\book store spt\bin\Debug\pt-BR\Microsoft.Build.resources.dll
+C:\Users\AMEY\source\repos\book store spt\book store spt\bin\Debug\ru\Microsoft.Build.resources.dll
+C:\Users\AMEY\source\repos\book store spt\book store spt\bin\Debug\tr\Microsoft.Build.resources.dll
+C:\Users\AMEY\source\repos\book store spt\book store spt\bin\Debug\zh-Hans\Microsoft.Build.resources.dll
+C:\Users\AMEY\source\repos\book store spt\book store spt\bin\Debug\zh-Hant\Microsoft.Build.resources.dll
+C:\Users\AMEY\source\repos\book store spt\book store spt\obj\Debug\book store spt.exe.config
+C:\Users\AMEY\source\repos\book store spt\book store spt\obj\Debug\book store spt.vbproj.CopyComplete
+C:\Users\AMEY\source\repos\book store spt\book store spt\obj\Debug\book_store_spt.Form8.resources
+C:\Users\AMEY\source\repos\book store spt\book store spt\obj\Debug\book_store_spt.Form10.resources
+C:\Users\AMEY\source\repos\book store spt\book store spt\obj\Debug\book_store_spt.Form9.resources
+C:\Users\FORTUNE SERVER\Desktop\BK\book store spt\book store spt\bin\Debug\book store spt.exe.config
+C:\Users\FORTUNE SERVER\Desktop\BK\book store spt\book store spt\bin\Debug\book store spt.exe
+C:\Users\FORTUNE SERVER\Desktop\BK\book store spt\book store spt\bin\Debug\book store spt.pdb
+C:\Users\FORTUNE SERVER\Desktop\BK\book store spt\book store spt\bin\Debug\book store spt.xml
+C:\Users\FORTUNE SERVER\Desktop\BK\book store spt\book store spt\bin\Debug\Microsoft.Data.Tools.Components.dll
+C:\Users\FORTUNE SERVER\Desktop\BK\book store spt\book store spt\bin\Debug\Microsoft.Data.Tools.Schema.Sql.dll
+C:\Users\FORTUNE SERVER\Desktop\BK\book store spt\book store spt\bin\Debug\Microsoft.Data.Tools.Schema.Sql.UnitTesting.dll
+C:\Users\FORTUNE SERVER\Desktop\BK\book store spt\book store spt\bin\Debug\Microsoft.Data.Tools.Schema.Sql.UnitTestingAdapter.dll
+C:\Users\FORTUNE SERVER\Desktop\BK\book store spt\book store spt\bin\Debug\Microsoft.Data.Tools.Utilities.dll
+C:\Users\FORTUNE SERVER\Desktop\BK\book store spt\book store spt\bin\Debug\Microsoft.Build.Framework.dll
+C:\Users\FORTUNE SERVER\Desktop\BK\book store spt\book store spt\bin\Debug\Microsoft.SqlServer.TransactSql.ScriptDom.dll
+C:\Users\FORTUNE SERVER\Desktop\BK\book store spt\book store spt\bin\Debug\Microsoft.Build.dll
+C:\Users\FORTUNE SERVER\Desktop\BK\book store spt\book store spt\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\FORTUNE SERVER\Desktop\BK\book store spt\book store spt\bin\Debug\System.Collections.Immutable.dll
+C:\Users\FORTUNE SERVER\Desktop\BK\book store spt\book store spt\bin\Debug\System.Memory.dll
+C:\Users\FORTUNE SERVER\Desktop\BK\book store spt\book store spt\bin\Debug\System.Threading.Tasks.Dataflow.dll
+C:\Users\FORTUNE SERVER\Desktop\BK\book store spt\book store spt\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\FORTUNE SERVER\Desktop\BK\book store spt\book store spt\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\FORTUNE SERVER\Desktop\BK\book store spt\book store spt\bin\Debug\System.Buffers.dll
+C:\Users\FORTUNE SERVER\Desktop\BK\book store spt\book store spt\bin\Debug\cs\Microsoft.Build.resources.dll
+C:\Users\FORTUNE SERVER\Desktop\BK\book store spt\book store spt\bin\Debug\de\Microsoft.Build.resources.dll
+C:\Users\FORTUNE SERVER\Desktop\BK\book store spt\book store spt\bin\Debug\en\Microsoft.Build.resources.dll
+C:\Users\FORTUNE SERVER\Desktop\BK\book store spt\book store spt\bin\Debug\es\Microsoft.Build.resources.dll
+C:\Users\FORTUNE SERVER\Desktop\BK\book store spt\book store spt\bin\Debug\fr\Microsoft.Build.resources.dll
+C:\Users\FORTUNE SERVER\Desktop\BK\book store spt\book store spt\bin\Debug\it\Microsoft.Build.resources.dll
+C:\Users\FORTUNE SERVER\Desktop\BK\book store spt\book store spt\bin\Debug\ja\Microsoft.Build.resources.dll
+C:\Users\FORTUNE SERVER\Desktop\BK\book store spt\book store spt\bin\Debug\ko\Microsoft.Build.resources.dll
+C:\Users\FORTUNE SERVER\Desktop\BK\book store spt\book store spt\bin\Debug\pl\Microsoft.Build.resources.dll
+C:\Users\FORTUNE SERVER\Desktop\BK\book store spt\book store spt\bin\Debug\pt-BR\Microsoft.Build.resources.dll
+C:\Users\FORTUNE SERVER\Desktop\BK\book store spt\book store spt\bin\Debug\ru\Microsoft.Build.resources.dll
+C:\Users\FORTUNE SERVER\Desktop\BK\book store spt\book store spt\bin\Debug\tr\Microsoft.Build.resources.dll
+C:\Users\FORTUNE SERVER\Desktop\BK\book store spt\book store spt\bin\Debug\zh-Hans\Microsoft.Build.resources.dll
+C:\Users\FORTUNE SERVER\Desktop\BK\book store spt\book store spt\bin\Debug\zh-Hant\Microsoft.Build.resources.dll
+C:\Users\FORTUNE SERVER\Desktop\BK\book store spt\book store spt\obj\Debug\book store spt.vbprojAssemblyReference.cache
+C:\Users\FORTUNE SERVER\Desktop\BK\book store spt\book store spt\obj\Debug\book store spt.exe.config
+C:\Users\FORTUNE SERVER\Desktop\BK\book store spt\book store spt\obj\Debug\book_store_spt.W1.resources
+C:\Users\FORTUNE SERVER\Desktop\BK\book store spt\book store spt\obj\Debug\book_store_spt.W4_1.resources
+C:\Users\FORTUNE SERVER\Desktop\BK\book store spt\book store spt\obj\Debug\book_store_spt.W2.resources
+C:\Users\FORTUNE SERVER\Desktop\BK\book store spt\book store spt\obj\Debug\book_store_spt.W3.resources
+C:\Users\FORTUNE SERVER\Desktop\BK\book store spt\book store spt\obj\Debug\book_store_spt.W3_3.resources
+C:\Users\FORTUNE SERVER\Desktop\BK\book store spt\book store spt\obj\Debug\book_store_spt.W4.resources
+C:\Users\FORTUNE SERVER\Desktop\BK\book store spt\book store spt\obj\Debug\book_store_spt.W4_3.resources
+C:\Users\FORTUNE SERVER\Desktop\BK\book store spt\book store spt\obj\Debug\book_store_spt.W3_1.resources
+C:\Users\FORTUNE SERVER\Desktop\BK\book store spt\book store spt\obj\Debug\book_store_spt.Resources.resources
+C:\Users\FORTUNE SERVER\Desktop\BK\book store spt\book store spt\obj\Debug\book store spt.vbproj.GenerateResource.cache
+C:\Users\FORTUNE SERVER\Desktop\BK\book store spt\book store spt\obj\Debug\book store spt.vbproj.CoreCompileInputs.cache
+C:\Users\FORTUNE SERVER\Desktop\BK\book store spt\book store spt\obj\Debug\book store spt.vbproj.CopyComplete
+C:\Users\FORTUNE SERVER\Desktop\BK\book store spt\book store spt\obj\Debug\book store spt.exe
+C:\Users\FORTUNE SERVER\Desktop\BK\book store spt\book store spt\obj\Debug\book store spt.xml
+C:\Users\FORTUNE SERVER\Desktop\BK\book store spt\book store spt\obj\Debug\book store spt.pdb
+C:\Users\FORTUNE SERVER\Desktop\BK\book store spt\book store spt\obj\Debug\book_store_spt.W3_1_1.resources
+C:\Users\FORTUNE SERVER\Desktop\BK\book store spt\book store spt\obj\Debug\book_store_spt.W4_1_1.resources
+C:\Users\vinay\Desktop\BK\book store spt\book store spt\bin\Debug\book store spt.exe.config
+C:\Users\vinay\Desktop\BK\book store spt\book store spt\bin\Debug\book store spt.exe
+C:\Users\vinay\Desktop\BK\book store spt\book store spt\bin\Debug\book store spt.pdb
+C:\Users\vinay\Desktop\BK\book store spt\book store spt\bin\Debug\book store spt.xml
+C:\Users\vinay\Desktop\BK\book store spt\book store spt\bin\Debug\Microsoft.Data.Tools.Components.dll
+C:\Users\vinay\Desktop\BK\book store spt\book store spt\bin\Debug\Microsoft.Data.Tools.Schema.Sql.dll
+C:\Users\vinay\Desktop\BK\book store spt\book store spt\bin\Debug\Microsoft.Data.Tools.Schema.Sql.UnitTesting.dll
+C:\Users\vinay\Desktop\BK\book store spt\book store spt\bin\Debug\Microsoft.Data.Tools.Schema.Sql.UnitTestingAdapter.dll
+C:\Users\vinay\Desktop\BK\book store spt\book store spt\bin\Debug\Microsoft.Data.Tools.Utilities.dll
+C:\Users\vinay\Desktop\BK\book store spt\book store spt\bin\Debug\Microsoft.Build.Framework.dll
+C:\Users\vinay\Desktop\BK\book store spt\book store spt\bin\Debug\Microsoft.SqlServer.TransactSql.ScriptDom.dll
+C:\Users\vinay\Desktop\BK\book store spt\book store spt\bin\Debug\Microsoft.Build.dll
+C:\Users\vinay\Desktop\BK\book store spt\book store spt\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\vinay\Desktop\BK\book store spt\book store spt\bin\Debug\System.Collections.Immutable.dll
+C:\Users\vinay\Desktop\BK\book store spt\book store spt\bin\Debug\System.Memory.dll
+C:\Users\vinay\Desktop\BK\book store spt\book store spt\bin\Debug\System.Threading.Tasks.Dataflow.dll
+C:\Users\vinay\Desktop\BK\book store spt\book store spt\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\vinay\Desktop\BK\book store spt\book store spt\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\vinay\Desktop\BK\book store spt\book store spt\bin\Debug\System.Buffers.dll
+C:\Users\vinay\Desktop\BK\book store spt\book store spt\bin\Debug\cs\Microsoft.Build.resources.dll
+C:\Users\vinay\Desktop\BK\book store spt\book store spt\bin\Debug\de\Microsoft.Build.resources.dll
+C:\Users\vinay\Desktop\BK\book store spt\book store spt\bin\Debug\en\Microsoft.Build.resources.dll
+C:\Users\vinay\Desktop\BK\book store spt\book store spt\bin\Debug\es\Microsoft.Build.resources.dll
+C:\Users\vinay\Desktop\BK\book store spt\book store spt\bin\Debug\fr\Microsoft.Build.resources.dll
+C:\Users\vinay\Desktop\BK\book store spt\book store spt\bin\Debug\it\Microsoft.Build.resources.dll
+C:\Users\vinay\Desktop\BK\book store spt\book store spt\bin\Debug\ja\Microsoft.Build.resources.dll
+C:\Users\vinay\Desktop\BK\book store spt\book store spt\bin\Debug\ko\Microsoft.Build.resources.dll
+C:\Users\vinay\Desktop\BK\book store spt\book store spt\bin\Debug\pl\Microsoft.Build.resources.dll
+C:\Users\vinay\Desktop\BK\book store spt\book store spt\bin\Debug\pt-BR\Microsoft.Build.resources.dll
+C:\Users\vinay\Desktop\BK\book store spt\book store spt\bin\Debug\ru\Microsoft.Build.resources.dll
+C:\Users\vinay\Desktop\BK\book store spt\book store spt\bin\Debug\tr\Microsoft.Build.resources.dll
+C:\Users\vinay\Desktop\BK\book store spt\book store spt\bin\Debug\zh-Hans\Microsoft.Build.resources.dll
+C:\Users\vinay\Desktop\BK\book store spt\book store spt\bin\Debug\zh-Hant\Microsoft.Build.resources.dll
+C:\Users\vinay\Desktop\BK\book store spt\book store spt\obj\Debug\book store spt.vbprojAssemblyReference.cache
+C:\Users\vinay\Desktop\BK\book store spt\book store spt\obj\Debug\book store spt.exe.config
+C:\Users\vinay\Desktop\BK\book store spt\book store spt\obj\Debug\book_store_spt.W1.resources
+C:\Users\vinay\Desktop\BK\book store spt\book store spt\obj\Debug\book_store_spt.W4_1.resources
+C:\Users\vinay\Desktop\BK\book store spt\book store spt\obj\Debug\book_store_spt.W4_1_1.resources
+C:\Users\vinay\Desktop\BK\book store spt\book store spt\obj\Debug\book_store_spt.W2.resources
+C:\Users\vinay\Desktop\BK\book store spt\book store spt\obj\Debug\book_store_spt.W3.resources
+C:\Users\vinay\Desktop\BK\book store spt\book store spt\obj\Debug\book_store_spt.W3_3.resources
+C:\Users\vinay\Desktop\BK\book store spt\book store spt\obj\Debug\book_store_spt.W4.resources
+C:\Users\vinay\Desktop\BK\book store spt\book store spt\obj\Debug\book_store_spt.W4_3.resources
+C:\Users\vinay\Desktop\BK\book store spt\book store spt\obj\Debug\book_store_spt.W3_1.resources
+C:\Users\vinay\Desktop\BK\book store spt\book store spt\obj\Debug\book_store_spt.W3_1_1.resources
+C:\Users\vinay\Desktop\BK\book store spt\book store spt\obj\Debug\book_store_spt.Resources.resources
+C:\Users\vinay\Desktop\BK\book store spt\book store spt\obj\Debug\book store spt.vbproj.GenerateResource.cache
+C:\Users\vinay\Desktop\BK\book store spt\book store spt\obj\Debug\book store spt.vbproj.CopyComplete
+C:\Users\vinay\Desktop\BK\book store spt\book store spt\obj\Debug\book store spt.exe
+C:\Users\vinay\Desktop\BK\book store spt\book store spt\obj\Debug\book store spt.xml
+C:\Users\vinay\Desktop\BK\book store spt\book store spt\obj\Debug\book store spt.pdb
+C:\Users\vinay\Desktop\BK\book store spt\book store spt\obj\Debug\book_store_spt.Form7.resources
+C:\Users\vinay\Desktop\BK\book store spt\book store spt\obj\Debug\book_store_spt.Form10.resources
+C:\Users\vinay\Desktop\BK\book store spt\book store spt\obj\Debug\book_store_spt.Form9.resources
+C:\Users\vinay\Desktop\BK\book store spt\book store spt\obj\Debug\book_store_spt.Form8.resources
+C:\Users\AMEY\Desktop\WINUPDATED\WIN\bin\Debug\book store spt.exe.config
+C:\Users\AMEY\Desktop\WINUPDATED\WIN\bin\Debug\book store spt.exe
+C:\Users\AMEY\Desktop\WINUPDATED\WIN\bin\Debug\book store spt.pdb
+C:\Users\AMEY\Desktop\WINUPDATED\WIN\bin\Debug\book store spt.xml
+C:\Users\AMEY\Desktop\WINUPDATED\WIN\bin\Debug\Microsoft.Data.Tools.Components.dll
+C:\Users\AMEY\Desktop\WINUPDATED\WIN\bin\Debug\Microsoft.Data.Tools.Schema.Sql.dll
+C:\Users\AMEY\Desktop\WINUPDATED\WIN\bin\Debug\Microsoft.Data.Tools.Schema.Sql.UnitTesting.dll
+C:\Users\AMEY\Desktop\WINUPDATED\WIN\bin\Debug\Microsoft.Data.Tools.Schema.Sql.UnitTestingAdapter.dll
+C:\Users\AMEY\Desktop\WINUPDATED\WIN\bin\Debug\Microsoft.Data.Tools.Utilities.dll
+C:\Users\AMEY\Desktop\WINUPDATED\WIN\bin\Debug\Microsoft.Build.Framework.dll
+C:\Users\AMEY\Desktop\WINUPDATED\WIN\bin\Debug\Microsoft.SqlServer.TransactSql.ScriptDom.dll
+C:\Users\AMEY\Desktop\WINUPDATED\WIN\bin\Debug\Microsoft.Build.dll
+C:\Users\AMEY\Desktop\WINUPDATED\WIN\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\AMEY\Desktop\WINUPDATED\WIN\bin\Debug\System.Collections.Immutable.dll
+C:\Users\AMEY\Desktop\WINUPDATED\WIN\bin\Debug\System.Memory.dll
+C:\Users\AMEY\Desktop\WINUPDATED\WIN\bin\Debug\System.Threading.Tasks.Dataflow.dll
+C:\Users\AMEY\Desktop\WINUPDATED\WIN\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\AMEY\Desktop\WINUPDATED\WIN\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\AMEY\Desktop\WINUPDATED\WIN\bin\Debug\System.Buffers.dll
+C:\Users\AMEY\Desktop\WINUPDATED\WIN\bin\Debug\cs\Microsoft.Build.resources.dll
+C:\Users\AMEY\Desktop\WINUPDATED\WIN\bin\Debug\de\Microsoft.Build.resources.dll
+C:\Users\AMEY\Desktop\WINUPDATED\WIN\bin\Debug\en\Microsoft.Build.resources.dll
+C:\Users\AMEY\Desktop\WINUPDATED\WIN\bin\Debug\es\Microsoft.Build.resources.dll
+C:\Users\AMEY\Desktop\WINUPDATED\WIN\bin\Debug\fr\Microsoft.Build.resources.dll
+C:\Users\AMEY\Desktop\WINUPDATED\WIN\bin\Debug\it\Microsoft.Build.resources.dll
+C:\Users\AMEY\Desktop\WINUPDATED\WIN\bin\Debug\ja\Microsoft.Build.resources.dll
+C:\Users\AMEY\Desktop\WINUPDATED\WIN\bin\Debug\ko\Microsoft.Build.resources.dll
+C:\Users\AMEY\Desktop\WINUPDATED\WIN\bin\Debug\pl\Microsoft.Build.resources.dll
+C:\Users\AMEY\Desktop\WINUPDATED\WIN\bin\Debug\pt-BR\Microsoft.Build.resources.dll
+C:\Users\AMEY\Desktop\WINUPDATED\WIN\bin\Debug\ru\Microsoft.Build.resources.dll
+C:\Users\AMEY\Desktop\WINUPDATED\WIN\bin\Debug\tr\Microsoft.Build.resources.dll
+C:\Users\AMEY\Desktop\WINUPDATED\WIN\bin\Debug\zh-Hans\Microsoft.Build.resources.dll
+C:\Users\AMEY\Desktop\WINUPDATED\WIN\bin\Debug\zh-Hant\Microsoft.Build.resources.dll
+C:\Users\AMEY\Desktop\WINUPDATED\WIN\obj\Debug\book store spt.vbprojAssemblyReference.cache
+C:\Users\AMEY\Desktop\WINUPDATED\WIN\obj\Debug\book store spt.exe.config
+C:\Users\AMEY\Desktop\WINUPDATED\WIN\obj\Debug\book_store_spt.Form11.resources
+C:\Users\AMEY\Desktop\WINUPDATED\WIN\obj\Debug\book_store_spt.Form10.resources
+C:\Users\AMEY\Desktop\WINUPDATED\WIN\obj\Debug\book_store_spt.Form12.resources
+C:\Users\AMEY\Desktop\WINUPDATED\WIN\obj\Debug\book_store_spt.Form9.resources
+C:\Users\AMEY\Desktop\WINUPDATED\WIN\obj\Debug\book_store_spt.Form7.resources
+C:\Users\AMEY\Desktop\WINUPDATED\WIN\obj\Debug\book_store_spt.Form8.resources
+C:\Users\AMEY\Desktop\WINUPDATED\WIN\obj\Debug\book_store_spt.W1.resources
+C:\Users\AMEY\Desktop\WINUPDATED\WIN\obj\Debug\book_store_spt.W4_1.resources
+C:\Users\AMEY\Desktop\WINUPDATED\WIN\obj\Debug\book_store_spt.W4_1_1.resources
+C:\Users\AMEY\Desktop\WINUPDATED\WIN\obj\Debug\book_store_spt.W2.resources
+C:\Users\AMEY\Desktop\WINUPDATED\WIN\obj\Debug\book_store_spt.W3.resources
+C:\Users\AMEY\Desktop\WINUPDATED\WIN\obj\Debug\book_store_spt.W3_3.resources
+C:\Users\AMEY\Desktop\WINUPDATED\WIN\obj\Debug\book_store_spt.W4.resources
+C:\Users\AMEY\Desktop\WINUPDATED\WIN\obj\Debug\book_store_spt.W4_3.resources
+C:\Users\AMEY\Desktop\WINUPDATED\WIN\obj\Debug\book_store_spt.W3_1.resources
+C:\Users\AMEY\Desktop\WINUPDATED\WIN\obj\Debug\book_store_spt.W3_1_1.resources
+C:\Users\AMEY\Desktop\WINUPDATED\WIN\obj\Debug\book_store_spt.Resources.resources
+C:\Users\AMEY\Desktop\WINUPDATED\WIN\obj\Debug\book store spt.vbproj.GenerateResource.cache
+C:\Users\AMEY\Desktop\WINUPDATED\WIN\obj\Debug\book store spt.vbproj.CoreCompileInputs.cache
+C:\Users\AMEY\Desktop\WINUPDATED\WIN\obj\Debug\book store spt.vbproj.CopyComplete
+C:\Users\AMEY\Desktop\WINUPDATED\WIN\obj\Debug\book store spt.exe
+C:\Users\AMEY\Desktop\WINUPDATED\WIN\obj\Debug\book store spt.xml
+C:\Users\AMEY\Desktop\WINUPDATED\WIN\obj\Debug\book store spt.pdb
+C:\Users\FCS SERVER\Desktop\Project\WINUPDATED\WIN\bin\Debug\book store spt.exe.config
+C:\Users\FCS SERVER\Desktop\Project\WINUPDATED\WIN\bin\Debug\book store spt.exe
+C:\Users\FCS SERVER\Desktop\Project\WINUPDATED\WIN\bin\Debug\book store spt.pdb
+C:\Users\FCS SERVER\Desktop\Project\WINUPDATED\WIN\bin\Debug\book store spt.xml
+C:\Users\FCS SERVER\Desktop\Project\WINUPDATED\WIN\bin\Debug\Index.dll
+C:\Users\FCS SERVER\Desktop\Project\WINUPDATED\WIN\bin\Debug\Microsoft.Data.Tools.Components.dll
+C:\Users\FCS SERVER\Desktop\Project\WINUPDATED\WIN\bin\Debug\Microsoft.Data.Tools.Schema.Sql.dll
+C:\Users\FCS SERVER\Desktop\Project\WINUPDATED\WIN\bin\Debug\Microsoft.Data.Tools.Schema.Sql.UnitTesting.dll
+C:\Users\FCS SERVER\Desktop\Project\WINUPDATED\WIN\bin\Debug\Microsoft.Data.Tools.Schema.Sql.UnitTestingAdapter.dll
+C:\Users\FCS SERVER\Desktop\Project\WINUPDATED\WIN\bin\Debug\MySql.Data.DLL
+C:\Users\FCS SERVER\Desktop\Project\WINUPDATED\WIN\bin\Debug\Network.dll
+C:\Users\FCS SERVER\Desktop\Project\WINUPDATED\WIN\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\FCS SERVER\Desktop\Project\WINUPDATED\WIN\bin\Debug\Renci.SshNet.dll
+C:\Users\FCS SERVER\Desktop\Project\WINUPDATED\WIN\bin\Debug\Microsoft.Data.Tools.Utilities.dll
+C:\Users\FCS SERVER\Desktop\Project\WINUPDATED\WIN\bin\Debug\Microsoft.Build.Framework.dll
+C:\Users\FCS SERVER\Desktop\Project\WINUPDATED\WIN\bin\Debug\Microsoft.SqlServer.TransactSql.ScriptDom.dll
+C:\Users\FCS SERVER\Desktop\Project\WINUPDATED\WIN\bin\Debug\Microsoft.Build.dll
+C:\Users\FCS SERVER\Desktop\Project\WINUPDATED\WIN\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\FCS SERVER\Desktop\Project\WINUPDATED\WIN\bin\Debug\System.Collections.Immutable.dll
+C:\Users\FCS SERVER\Desktop\Project\WINUPDATED\WIN\bin\Debug\System.Memory.dll
+C:\Users\FCS SERVER\Desktop\Project\WINUPDATED\WIN\bin\Debug\System.Threading.Tasks.Dataflow.dll
+C:\Users\FCS SERVER\Desktop\Project\WINUPDATED\WIN\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\FCS SERVER\Desktop\Project\WINUPDATED\WIN\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\FCS SERVER\Desktop\Project\WINUPDATED\WIN\bin\Debug\System.Buffers.dll
+C:\Users\FCS SERVER\Desktop\Project\WINUPDATED\WIN\bin\Debug\cs\Microsoft.Build.resources.dll
+C:\Users\FCS SERVER\Desktop\Project\WINUPDATED\WIN\bin\Debug\de\Microsoft.Build.resources.dll
+C:\Users\FCS SERVER\Desktop\Project\WINUPDATED\WIN\bin\Debug\en\Microsoft.Build.resources.dll
+C:\Users\FCS SERVER\Desktop\Project\WINUPDATED\WIN\bin\Debug\es\Microsoft.Build.resources.dll
+C:\Users\FCS SERVER\Desktop\Project\WINUPDATED\WIN\bin\Debug\fr\Microsoft.Build.resources.dll
+C:\Users\FCS SERVER\Desktop\Project\WINUPDATED\WIN\bin\Debug\it\Microsoft.Build.resources.dll
+C:\Users\FCS SERVER\Desktop\Project\WINUPDATED\WIN\bin\Debug\ja\Microsoft.Build.resources.dll
+C:\Users\FCS SERVER\Desktop\Project\WINUPDATED\WIN\bin\Debug\ko\Microsoft.Build.resources.dll
+C:\Users\FCS SERVER\Desktop\Project\WINUPDATED\WIN\bin\Debug\pl\Microsoft.Build.resources.dll
+C:\Users\FCS SERVER\Desktop\Project\WINUPDATED\WIN\bin\Debug\pt-BR\Microsoft.Build.resources.dll
+C:\Users\FCS SERVER\Desktop\Project\WINUPDATED\WIN\bin\Debug\ru\Microsoft.Build.resources.dll
+C:\Users\FCS SERVER\Desktop\Project\WINUPDATED\WIN\bin\Debug\tr\Microsoft.Build.resources.dll
+C:\Users\FCS SERVER\Desktop\Project\WINUPDATED\WIN\bin\Debug\zh-Hans\Microsoft.Build.resources.dll
+C:\Users\FCS SERVER\Desktop\Project\WINUPDATED\WIN\bin\Debug\zh-Hant\Microsoft.Build.resources.dll
+C:\Users\FCS SERVER\Desktop\Project\WINUPDATED\WIN\obj\Debug\book store spt.exe.config
+C:\Users\FCS SERVER\Desktop\Project\WINUPDATED\WIN\obj\Debug\book_store_spt.Form11.resources
+C:\Users\FCS SERVER\Desktop\Project\WINUPDATED\WIN\obj\Debug\book_store_spt.Form10.resources
+C:\Users\FCS SERVER\Desktop\Project\WINUPDATED\WIN\obj\Debug\book_store_spt.Form12.resources
+C:\Users\FCS SERVER\Desktop\Project\WINUPDATED\WIN\obj\Debug\book_store_spt.Form9.resources
+C:\Users\FCS SERVER\Desktop\Project\WINUPDATED\WIN\obj\Debug\book_store_spt.Form7.resources
+C:\Users\FCS SERVER\Desktop\Project\WINUPDATED\WIN\obj\Debug\book_store_spt.Form8.resources
+C:\Users\FCS SERVER\Desktop\Project\WINUPDATED\WIN\obj\Debug\book_store_spt.W1.resources
+C:\Users\FCS SERVER\Desktop\Project\WINUPDATED\WIN\obj\Debug\book_store_spt.W4_1.resources
+C:\Users\FCS SERVER\Desktop\Project\WINUPDATED\WIN\obj\Debug\book_store_spt.W4_1_1.resources
+C:\Users\FCS SERVER\Desktop\Project\WINUPDATED\WIN\obj\Debug\book_store_spt.W2.resources
+C:\Users\FCS SERVER\Desktop\Project\WINUPDATED\WIN\obj\Debug\book_store_spt.W3.resources
+C:\Users\FCS SERVER\Desktop\Project\WINUPDATED\WIN\obj\Debug\book_store_spt.W3_3.resources
+C:\Users\FCS SERVER\Desktop\Project\WINUPDATED\WIN\obj\Debug\book_store_spt.W4.resources
+C:\Users\FCS SERVER\Desktop\Project\WINUPDATED\WIN\obj\Debug\book_store_spt.W4_3.resources
+C:\Users\FCS SERVER\Desktop\Project\WINUPDATED\WIN\obj\Debug\book_store_spt.W3_1.resources
+C:\Users\FCS SERVER\Desktop\Project\WINUPDATED\WIN\obj\Debug\book_store_spt.W3_1_1.resources
+C:\Users\FCS SERVER\Desktop\Project\WINUPDATED\WIN\obj\Debug\book_store_spt.Resources.resources
+C:\Users\FCS SERVER\Desktop\Project\WINUPDATED\WIN\obj\Debug\book store spt.vbproj.GenerateResource.cache
+C:\Users\FCS SERVER\Desktop\Project\WINUPDATED\WIN\obj\Debug\book store spt.vbproj.CoreCompileInputs.cache
+C:\Users\FCS SERVER\Desktop\Project\WINUPDATED\WIN\obj\Debug\book store spt.vbproj.CopyComplete
+C:\Users\FCS SERVER\Desktop\Project\WINUPDATED\WIN\obj\Debug\book store spt.exe
+C:\Users\FCS SERVER\Desktop\Project\WINUPDATED\WIN\obj\Debug\book store spt.xml
+C:\Users\FCS SERVER\Desktop\Project\WINUPDATED\WIN\obj\Debug\book store spt.pdb
+C:\Users\FCS SERVER\Desktop\Project\WINUPDATED\WIN\obj\Debug\book store spt.vbprojAssemblyReference.cache
+E:\FUTURE WORK\VISUAL STUDIO\VB.NET BASE PROGRAM\Project\WINUPDATED\WIN\bin\Debug\book store spt.exe.config
+E:\FUTURE WORK\VISUAL STUDIO\VB.NET BASE PROGRAM\Project\WINUPDATED\WIN\bin\Debug\book store spt.exe
+E:\FUTURE WORK\VISUAL STUDIO\VB.NET BASE PROGRAM\Project\WINUPDATED\WIN\bin\Debug\book store spt.pdb
+E:\FUTURE WORK\VISUAL STUDIO\VB.NET BASE PROGRAM\Project\WINUPDATED\WIN\bin\Debug\book store spt.xml
+E:\FUTURE WORK\VISUAL STUDIO\VB.NET BASE PROGRAM\Project\WINUPDATED\WIN\bin\Debug\Index.dll
+E:\FUTURE WORK\VISUAL STUDIO\VB.NET BASE PROGRAM\Project\WINUPDATED\WIN\bin\Debug\Microsoft.Data.Tools.Components.dll
+E:\FUTURE WORK\VISUAL STUDIO\VB.NET BASE PROGRAM\Project\WINUPDATED\WIN\bin\Debug\Microsoft.Data.Tools.Schema.Sql.dll
+E:\FUTURE WORK\VISUAL STUDIO\VB.NET BASE PROGRAM\Project\WINUPDATED\WIN\bin\Debug\Microsoft.Data.Tools.Schema.Sql.UnitTesting.dll
+E:\FUTURE WORK\VISUAL STUDIO\VB.NET BASE PROGRAM\Project\WINUPDATED\WIN\bin\Debug\Microsoft.Data.Tools.Schema.Sql.UnitTestingAdapter.dll
+E:\FUTURE WORK\VISUAL STUDIO\VB.NET BASE PROGRAM\Project\WINUPDATED\WIN\bin\Debug\MySql.Data.dll
+E:\FUTURE WORK\VISUAL STUDIO\VB.NET BASE PROGRAM\Project\WINUPDATED\WIN\bin\Debug\Network.dll
+E:\FUTURE WORK\VISUAL STUDIO\VB.NET BASE PROGRAM\Project\WINUPDATED\WIN\bin\Debug\Microsoft.Data.Tools.Utilities.dll
+E:\FUTURE WORK\VISUAL STUDIO\VB.NET BASE PROGRAM\Project\WINUPDATED\WIN\bin\Debug\Microsoft.Build.Framework.dll
+E:\FUTURE WORK\VISUAL STUDIO\VB.NET BASE PROGRAM\Project\WINUPDATED\WIN\bin\Debug\Microsoft.SqlServer.TransactSql.ScriptDom.dll
+E:\FUTURE WORK\VISUAL STUDIO\VB.NET BASE PROGRAM\Project\WINUPDATED\WIN\bin\Debug\Microsoft.Build.dll
+E:\FUTURE WORK\VISUAL STUDIO\VB.NET BASE PROGRAM\Project\WINUPDATED\WIN\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+E:\FUTURE WORK\VISUAL STUDIO\VB.NET BASE PROGRAM\Project\WINUPDATED\WIN\bin\Debug\System.Collections.Immutable.dll
+E:\FUTURE WORK\VISUAL STUDIO\VB.NET BASE PROGRAM\Project\WINUPDATED\WIN\bin\Debug\System.Memory.dll
+E:\FUTURE WORK\VISUAL STUDIO\VB.NET BASE PROGRAM\Project\WINUPDATED\WIN\bin\Debug\System.Threading.Tasks.Dataflow.dll
+E:\FUTURE WORK\VISUAL STUDIO\VB.NET BASE PROGRAM\Project\WINUPDATED\WIN\bin\Debug\System.Numerics.Vectors.dll
+E:\FUTURE WORK\VISUAL STUDIO\VB.NET BASE PROGRAM\Project\WINUPDATED\WIN\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+E:\FUTURE WORK\VISUAL STUDIO\VB.NET BASE PROGRAM\Project\WINUPDATED\WIN\bin\Debug\System.Buffers.dll
+E:\FUTURE WORK\VISUAL STUDIO\VB.NET BASE PROGRAM\Project\WINUPDATED\WIN\bin\Debug\MySql.Data.xml
+E:\FUTURE WORK\VISUAL STUDIO\VB.NET BASE PROGRAM\Project\WINUPDATED\WIN\bin\Debug\cs\Microsoft.Build.resources.dll
+E:\FUTURE WORK\VISUAL STUDIO\VB.NET BASE PROGRAM\Project\WINUPDATED\WIN\bin\Debug\de\Microsoft.Build.resources.dll
+E:\FUTURE WORK\VISUAL STUDIO\VB.NET BASE PROGRAM\Project\WINUPDATED\WIN\bin\Debug\en\Microsoft.Build.resources.dll
+E:\FUTURE WORK\VISUAL STUDIO\VB.NET BASE PROGRAM\Project\WINUPDATED\WIN\bin\Debug\es\Microsoft.Build.resources.dll
+E:\FUTURE WORK\VISUAL STUDIO\VB.NET BASE PROGRAM\Project\WINUPDATED\WIN\bin\Debug\fr\Microsoft.Build.resources.dll
+E:\FUTURE WORK\VISUAL STUDIO\VB.NET BASE PROGRAM\Project\WINUPDATED\WIN\bin\Debug\it\Microsoft.Build.resources.dll
+E:\FUTURE WORK\VISUAL STUDIO\VB.NET BASE PROGRAM\Project\WINUPDATED\WIN\bin\Debug\ja\Microsoft.Build.resources.dll
+E:\FUTURE WORK\VISUAL STUDIO\VB.NET BASE PROGRAM\Project\WINUPDATED\WIN\bin\Debug\ko\Microsoft.Build.resources.dll
+E:\FUTURE WORK\VISUAL STUDIO\VB.NET BASE PROGRAM\Project\WINUPDATED\WIN\bin\Debug\pl\Microsoft.Build.resources.dll
+E:\FUTURE WORK\VISUAL STUDIO\VB.NET BASE PROGRAM\Project\WINUPDATED\WIN\bin\Debug\pt-BR\Microsoft.Build.resources.dll
+E:\FUTURE WORK\VISUAL STUDIO\VB.NET BASE PROGRAM\Project\WINUPDATED\WIN\bin\Debug\ru\Microsoft.Build.resources.dll
+E:\FUTURE WORK\VISUAL STUDIO\VB.NET BASE PROGRAM\Project\WINUPDATED\WIN\bin\Debug\tr\Microsoft.Build.resources.dll
+E:\FUTURE WORK\VISUAL STUDIO\VB.NET BASE PROGRAM\Project\WINUPDATED\WIN\bin\Debug\zh-Hans\Microsoft.Build.resources.dll
+E:\FUTURE WORK\VISUAL STUDIO\VB.NET BASE PROGRAM\Project\WINUPDATED\WIN\bin\Debug\zh-Hant\Microsoft.Build.resources.dll
+E:\FUTURE WORK\VISUAL STUDIO\VB.NET BASE PROGRAM\Project\WINUPDATED\WIN\obj\Debug\book store spt.vbprojAssemblyReference.cache
+E:\FUTURE WORK\VISUAL STUDIO\VB.NET BASE PROGRAM\Project\WINUPDATED\WIN\obj\Debug\book store spt.exe.config
+E:\FUTURE WORK\VISUAL STUDIO\VB.NET BASE PROGRAM\Project\WINUPDATED\WIN\obj\Debug\book_store_spt.Form11.resources
+E:\FUTURE WORK\VISUAL STUDIO\VB.NET BASE PROGRAM\Project\WINUPDATED\WIN\obj\Debug\book_store_spt.Form10.resources
+E:\FUTURE WORK\VISUAL STUDIO\VB.NET BASE PROGRAM\Project\WINUPDATED\WIN\obj\Debug\book_store_spt.Form12.resources
+E:\FUTURE WORK\VISUAL STUDIO\VB.NET BASE PROGRAM\Project\WINUPDATED\WIN\obj\Debug\book_store_spt.Form9.resources
+E:\FUTURE WORK\VISUAL STUDIO\VB.NET BASE PROGRAM\Project\WINUPDATED\WIN\obj\Debug\book_store_spt.Form7.resources
+E:\FUTURE WORK\VISUAL STUDIO\VB.NET BASE PROGRAM\Project\WINUPDATED\WIN\obj\Debug\book_store_spt.Form8.resources
+E:\FUTURE WORK\VISUAL STUDIO\VB.NET BASE PROGRAM\Project\WINUPDATED\WIN\obj\Debug\book_store_spt.W1.resources
+E:\FUTURE WORK\VISUAL STUDIO\VB.NET BASE PROGRAM\Project\WINUPDATED\WIN\obj\Debug\book_store_spt.W4_1.resources
+E:\FUTURE WORK\VISUAL STUDIO\VB.NET BASE PROGRAM\Project\WINUPDATED\WIN\obj\Debug\book_store_spt.W4_1_1.resources
+E:\FUTURE WORK\VISUAL STUDIO\VB.NET BASE PROGRAM\Project\WINUPDATED\WIN\obj\Debug\book_store_spt.W2.resources
+E:\FUTURE WORK\VISUAL STUDIO\VB.NET BASE PROGRAM\Project\WINUPDATED\WIN\obj\Debug\book_store_spt.W3.resources
+E:\FUTURE WORK\VISUAL STUDIO\VB.NET BASE PROGRAM\Project\WINUPDATED\WIN\obj\Debug\book_store_spt.W3_3.resources
+E:\FUTURE WORK\VISUAL STUDIO\VB.NET BASE PROGRAM\Project\WINUPDATED\WIN\obj\Debug\book_store_spt.W4.resources
+E:\FUTURE WORK\VISUAL STUDIO\VB.NET BASE PROGRAM\Project\WINUPDATED\WIN\obj\Debug\book_store_spt.W4_3.resources
+E:\FUTURE WORK\VISUAL STUDIO\VB.NET BASE PROGRAM\Project\WINUPDATED\WIN\obj\Debug\book_store_spt.W3_1.resources
+E:\FUTURE WORK\VISUAL STUDIO\VB.NET BASE PROGRAM\Project\WINUPDATED\WIN\obj\Debug\book_store_spt.W3_1_1.resources
+E:\FUTURE WORK\VISUAL STUDIO\VB.NET BASE PROGRAM\Project\WINUPDATED\WIN\obj\Debug\book_store_spt.Resources.resources
+E:\FUTURE WORK\VISUAL STUDIO\VB.NET BASE PROGRAM\Project\WINUPDATED\WIN\obj\Debug\book store spt.vbproj.GenerateResource.cache
+E:\FUTURE WORK\VISUAL STUDIO\VB.NET BASE PROGRAM\Project\WINUPDATED\WIN\obj\Debug\book store spt.vbproj.CoreCompileInputs.cache
+E:\FUTURE WORK\VISUAL STUDIO\VB.NET BASE PROGRAM\Project\WINUPDATED\WIN\obj\Debug\book store spt.vbproj.CopyComplete
+E:\FUTURE WORK\VISUAL STUDIO\VB.NET BASE PROGRAM\Project\WINUPDATED\WIN\obj\Debug\book store spt.exe
+E:\FUTURE WORK\VISUAL STUDIO\VB.NET BASE PROGRAM\Project\WINUPDATED\WIN\obj\Debug\book store spt.xml
+E:\FUTURE WORK\VISUAL STUDIO\VB.NET BASE PROGRAM\Project\WINUPDATED\WIN\obj\Debug\book store spt.pdb

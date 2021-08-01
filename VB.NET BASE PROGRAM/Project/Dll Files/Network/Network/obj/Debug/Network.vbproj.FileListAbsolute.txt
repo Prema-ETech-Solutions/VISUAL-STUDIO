@@ -1,0 +1,10 @@
+C:\Users\FCS SERVER\Desktop\Project\Network\Network\bin\Debug\Network.dll
+C:\Users\FCS SERVER\Desktop\Project\Network\Network\bin\Debug\Network.pdb
+C:\Users\FCS SERVER\Desktop\Project\Network\Network\bin\Debug\Network.xml
+C:\Users\FCS SERVER\Desktop\Project\Network\Network\obj\Debug\Network.vbprojAssemblyReference.cache
+C:\Users\FCS SERVER\Desktop\Project\Network\Network\obj\Debug\Network.Resources.resources
+C:\Users\FCS SERVER\Desktop\Project\Network\Network\obj\Debug\Network.vbproj.GenerateResource.cache
+C:\Users\FCS SERVER\Desktop\Project\Network\Network\obj\Debug\Network.vbproj.CoreCompileInputs.cache
+C:\Users\FCS SERVER\Desktop\Project\Network\Network\obj\Debug\Network.dll
+C:\Users\FCS SERVER\Desktop\Project\Network\Network\obj\Debug\Network.xml
+C:\Users\FCS SERVER\Desktop\Project\Network\Network\obj\Debug\Network.pdb

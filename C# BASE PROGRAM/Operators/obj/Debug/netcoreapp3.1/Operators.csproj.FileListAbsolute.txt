@@ -1,0 +1,13 @@
+E:\FUTURE WORK\VISUAL STUDIO\C# BASE PROGRAM\Operators\bin\Debug\netcoreapp3.1\Operators.exe
+E:\FUTURE WORK\VISUAL STUDIO\C# BASE PROGRAM\Operators\bin\Debug\netcoreapp3.1\Operators.deps.json
+E:\FUTURE WORK\VISUAL STUDIO\C# BASE PROGRAM\Operators\bin\Debug\netcoreapp3.1\Operators.runtimeconfig.json
+E:\FUTURE WORK\VISUAL STUDIO\C# BASE PROGRAM\Operators\bin\Debug\netcoreapp3.1\Operators.runtimeconfig.dev.json
+E:\FUTURE WORK\VISUAL STUDIO\C# BASE PROGRAM\Operators\bin\Debug\netcoreapp3.1\Operators.dll
+E:\FUTURE WORK\VISUAL STUDIO\C# BASE PROGRAM\Operators\bin\Debug\netcoreapp3.1\Operators.pdb
+E:\FUTURE WORK\VISUAL STUDIO\C# BASE PROGRAM\Operators\obj\Debug\netcoreapp3.1\Operators.csprojAssemblyReference.cache
+E:\FUTURE WORK\VISUAL STUDIO\C# BASE PROGRAM\Operators\obj\Debug\netcoreapp3.1\Operators.csproj.CoreCompileInputs.cache
+E:\FUTURE WORK\VISUAL STUDIO\C# BASE PROGRAM\Operators\obj\Debug\netcoreapp3.1\Operators.AssemblyInfoInputs.cache
+E:\FUTURE WORK\VISUAL STUDIO\C# BASE PROGRAM\Operators\obj\Debug\netcoreapp3.1\Operators.AssemblyInfo.cs
+E:\FUTURE WORK\VISUAL STUDIO\C# BASE PROGRAM\Operators\obj\Debug\netcoreapp3.1\Operators.dll
+E:\FUTURE WORK\VISUAL STUDIO\C# BASE PROGRAM\Operators\obj\Debug\netcoreapp3.1\Operators.pdb
+E:\FUTURE WORK\VISUAL STUDIO\C# BASE PROGRAM\Operators\obj\Debug\netcoreapp3.1\Operators.genruntimeconfig.cache

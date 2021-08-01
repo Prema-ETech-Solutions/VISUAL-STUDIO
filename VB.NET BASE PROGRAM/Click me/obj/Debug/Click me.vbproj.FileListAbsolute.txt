@@ -1,0 +1,14 @@
+E:\FUTURE WORK\VISUAL STUDIO\VB.NET BASE PROGRAM\Click me\bin\Debug\Click me.exe.config
+E:\FUTURE WORK\VISUAL STUDIO\VB.NET BASE PROGRAM\Click me\bin\Debug\Click me.exe
+E:\FUTURE WORK\VISUAL STUDIO\VB.NET BASE PROGRAM\Click me\bin\Debug\Click me.pdb
+E:\FUTURE WORK\VISUAL STUDIO\VB.NET BASE PROGRAM\Click me\bin\Debug\Click me.xml
+E:\FUTURE WORK\VISUAL STUDIO\VB.NET BASE PROGRAM\Click me\bin\Debug\MySql.Data.xml
+E:\FUTURE WORK\VISUAL STUDIO\VB.NET BASE PROGRAM\Click me\obj\Debug\Click me.vbprojAssemblyReference.cache
+E:\FUTURE WORK\VISUAL STUDIO\VB.NET BASE PROGRAM\Click me\obj\Debug\Click_me.Form1.resources
+E:\FUTURE WORK\VISUAL STUDIO\VB.NET BASE PROGRAM\Click me\obj\Debug\Click_me.Resources.resources
+E:\FUTURE WORK\VISUAL STUDIO\VB.NET BASE PROGRAM\Click me\obj\Debug\Click me.vbproj.GenerateResource.cache
+E:\FUTURE WORK\VISUAL STUDIO\VB.NET BASE PROGRAM\Click me\obj\Debug\Click me.vbproj.CoreCompileInputs.cache
+E:\FUTURE WORK\VISUAL STUDIO\VB.NET BASE PROGRAM\Click me\obj\Debug\Click me.vbproj.CopyComplete
+E:\FUTURE WORK\VISUAL STUDIO\VB.NET BASE PROGRAM\Click me\obj\Debug\Click me.exe
+E:\FUTURE WORK\VISUAL STUDIO\VB.NET BASE PROGRAM\Click me\obj\Debug\Click me.xml
+E:\FUTURE WORK\VISUAL STUDIO\VB.NET BASE PROGRAM\Click me\obj\Debug\Click me.pdb

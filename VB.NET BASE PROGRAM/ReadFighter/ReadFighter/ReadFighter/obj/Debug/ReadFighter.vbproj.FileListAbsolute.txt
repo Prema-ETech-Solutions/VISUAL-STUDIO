@@ -1,0 +1,21 @@
+D:\users\suraj\documents\visual studio 2015\Projects\ReadFighter\ReadFighter\bin\Debug\ReadFighter.exe
+D:\users\suraj\documents\visual studio 2015\Projects\ReadFighter\ReadFighter\bin\Debug\ReadFighter.pdb
+D:\users\suraj\documents\visual studio 2015\Projects\ReadFighter\ReadFighter\bin\Debug\ReadFighter.xml
+D:\users\suraj\documents\visual studio 2015\Projects\ReadFighter\ReadFighter\obj\Debug\ReadFighter.vbprojResolveAssemblyReference.cache
+D:\users\suraj\documents\visual studio 2015\Projects\ReadFighter\ReadFighter\obj\Debug\ReadFighter.Form1.resources
+D:\users\suraj\documents\visual studio 2015\Projects\ReadFighter\ReadFighter\obj\Debug\ReadFighter.Resources.resources
+D:\users\suraj\documents\visual studio 2015\Projects\ReadFighter\ReadFighter\obj\Debug\ReadFighter.vbproj.GenerateResource.Cache
+D:\users\suraj\documents\visual studio 2015\Projects\ReadFighter\ReadFighter\obj\Debug\ReadFighter.exe
+D:\users\suraj\documents\visual studio 2015\Projects\ReadFighter\ReadFighter\obj\Debug\ReadFighter.xml
+D:\users\suraj\documents\visual studio 2015\Projects\ReadFighter\ReadFighter\obj\Debug\ReadFighter.pdb
+D:\DATA E\FUTURE WORK\VISUAL STUDIO\VB.NET BASE PROGRAM\ReadFighter\ReadFighter\ReadFighter\bin\Debug\ReadFighter.exe
+D:\DATA E\FUTURE WORK\VISUAL STUDIO\VB.NET BASE PROGRAM\ReadFighter\ReadFighter\ReadFighter\bin\Debug\ReadFighter.pdb
+D:\DATA E\FUTURE WORK\VISUAL STUDIO\VB.NET BASE PROGRAM\ReadFighter\ReadFighter\ReadFighter\bin\Debug\ReadFighter.xml
+D:\DATA E\FUTURE WORK\VISUAL STUDIO\VB.NET BASE PROGRAM\ReadFighter\ReadFighter\ReadFighter\obj\Debug\ReadFighter.vbprojAssemblyReference.cache
+D:\DATA E\FUTURE WORK\VISUAL STUDIO\VB.NET BASE PROGRAM\ReadFighter\ReadFighter\ReadFighter\obj\Debug\ReadFighter.Form1.resources
+D:\DATA E\FUTURE WORK\VISUAL STUDIO\VB.NET BASE PROGRAM\ReadFighter\ReadFighter\ReadFighter\obj\Debug\ReadFighter.Resources.resources
+D:\DATA E\FUTURE WORK\VISUAL STUDIO\VB.NET BASE PROGRAM\ReadFighter\ReadFighter\ReadFighter\obj\Debug\ReadFighter.vbproj.GenerateResource.cache
+D:\DATA E\FUTURE WORK\VISUAL STUDIO\VB.NET BASE PROGRAM\ReadFighter\ReadFighter\ReadFighter\obj\Debug\ReadFighter.vbproj.CoreCompileInputs.cache
+D:\DATA E\FUTURE WORK\VISUAL STUDIO\VB.NET BASE PROGRAM\ReadFighter\ReadFighter\ReadFighter\obj\Debug\ReadFighter.exe
+D:\DATA E\FUTURE WORK\VISUAL STUDIO\VB.NET BASE PROGRAM\ReadFighter\ReadFighter\ReadFighter\obj\Debug\ReadFighter.xml
+D:\DATA E\FUTURE WORK\VISUAL STUDIO\VB.NET BASE PROGRAM\ReadFighter\ReadFighter\ReadFighter\obj\Debug\ReadFighter.pdb

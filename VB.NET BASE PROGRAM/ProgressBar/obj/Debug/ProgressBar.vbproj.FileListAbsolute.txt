@@ -1,0 +1,12 @@
+E:\FUTURE WORK\VISUAL STUDIO\VB.NET BASE PROGRAM\ProgressBar\bin\Debug\ProgressBar.exe.config
+E:\FUTURE WORK\VISUAL STUDIO\VB.NET BASE PROGRAM\ProgressBar\bin\Debug\ProgressBar.exe
+E:\FUTURE WORK\VISUAL STUDIO\VB.NET BASE PROGRAM\ProgressBar\bin\Debug\ProgressBar.pdb
+E:\FUTURE WORK\VISUAL STUDIO\VB.NET BASE PROGRAM\ProgressBar\bin\Debug\ProgressBar.xml
+E:\FUTURE WORK\VISUAL STUDIO\VB.NET BASE PROGRAM\ProgressBar\obj\Debug\ProgressBar.vbprojAssemblyReference.cache
+E:\FUTURE WORK\VISUAL STUDIO\VB.NET BASE PROGRAM\ProgressBar\obj\Debug\ProgressBar.Form1.resources
+E:\FUTURE WORK\VISUAL STUDIO\VB.NET BASE PROGRAM\ProgressBar\obj\Debug\ProgressBar.Resources.resources
+E:\FUTURE WORK\VISUAL STUDIO\VB.NET BASE PROGRAM\ProgressBar\obj\Debug\ProgressBar.vbproj.GenerateResource.cache
+E:\FUTURE WORK\VISUAL STUDIO\VB.NET BASE PROGRAM\ProgressBar\obj\Debug\ProgressBar.vbproj.CoreCompileInputs.cache
+E:\FUTURE WORK\VISUAL STUDIO\VB.NET BASE PROGRAM\ProgressBar\obj\Debug\ProgressBar.exe
+E:\FUTURE WORK\VISUAL STUDIO\VB.NET BASE PROGRAM\ProgressBar\obj\Debug\ProgressBar.xml
+E:\FUTURE WORK\VISUAL STUDIO\VB.NET BASE PROGRAM\ProgressBar\obj\Debug\ProgressBar.pdb

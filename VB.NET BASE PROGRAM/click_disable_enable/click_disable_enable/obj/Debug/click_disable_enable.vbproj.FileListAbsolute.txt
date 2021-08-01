@@ -1,0 +1,14 @@
+C:\Users\FCS SERVER\source\repos\click_disable_enable\click_disable_enable\bin\Debug\click_disable_enable.exe.config
+C:\Users\FCS SERVER\source\repos\click_disable_enable\click_disable_enable\bin\Debug\click_disable_enable.exe
+C:\Users\FCS SERVER\source\repos\click_disable_enable\click_disable_enable\bin\Debug\click_disable_enable.pdb
+C:\Users\FCS SERVER\source\repos\click_disable_enable\click_disable_enable\bin\Debug\click_disable_enable.xml
+C:\Users\FCS SERVER\source\repos\click_disable_enable\click_disable_enable\obj\Debug\click_disable_enable.vbprojAssemblyReference.cache
+C:\Users\FCS SERVER\source\repos\click_disable_enable\click_disable_enable\obj\Debug\click_disable_enable.Form1.resources
+C:\Users\FCS SERVER\source\repos\click_disable_enable\click_disable_enable\obj\Debug\click_disable_enable.Resources.resources
+C:\Users\FCS SERVER\source\repos\click_disable_enable\click_disable_enable\obj\Debug\click_disable_enable.vbproj.GenerateResource.cache
+C:\Users\FCS SERVER\source\repos\click_disable_enable\click_disable_enable\obj\Debug\click_disable_enable.vbproj.CoreCompileInputs.cache
+C:\Users\FCS SERVER\source\repos\click_disable_enable\click_disable_enable\obj\Debug\click_disable_enable.exe
+C:\Users\FCS SERVER\source\repos\click_disable_enable\click_disable_enable\obj\Debug\click_disable_enable.xml
+C:\Users\FCS SERVER\source\repos\click_disable_enable\click_disable_enable\obj\Debug\click_disable_enable.pdb
+C:\Users\FCS SERVER\source\repos\click_disable_enable\click_disable_enable\bin\Debug\Guna.UI2.dll
+C:\Users\FCS SERVER\source\repos\click_disable_enable\click_disable_enable\obj\Debug\click_disable_enable.vbproj.CopyComplete

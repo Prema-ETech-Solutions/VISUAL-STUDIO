@@ -1,0 +1,13 @@
+E:\FUTURE WORK\VISUAL STUDIO\C# BASE PROGRAM\First_Program\First_Program\bin\Debug\netcoreapp3.1\First_Program.exe
+E:\FUTURE WORK\VISUAL STUDIO\C# BASE PROGRAM\First_Program\First_Program\bin\Debug\netcoreapp3.1\First_Program.deps.json
+E:\FUTURE WORK\VISUAL STUDIO\C# BASE PROGRAM\First_Program\First_Program\bin\Debug\netcoreapp3.1\First_Program.runtimeconfig.json
+E:\FUTURE WORK\VISUAL STUDIO\C# BASE PROGRAM\First_Program\First_Program\bin\Debug\netcoreapp3.1\First_Program.runtimeconfig.dev.json
+E:\FUTURE WORK\VISUAL STUDIO\C# BASE PROGRAM\First_Program\First_Program\bin\Debug\netcoreapp3.1\First_Program.dll
+E:\FUTURE WORK\VISUAL STUDIO\C# BASE PROGRAM\First_Program\First_Program\bin\Debug\netcoreapp3.1\First_Program.pdb
+E:\FUTURE WORK\VISUAL STUDIO\C# BASE PROGRAM\First_Program\First_Program\obj\Debug\netcoreapp3.1\First_Program.csprojAssemblyReference.cache
+E:\FUTURE WORK\VISUAL STUDIO\C# BASE PROGRAM\First_Program\First_Program\obj\Debug\netcoreapp3.1\First_Program.csproj.CoreCompileInputs.cache
+E:\FUTURE WORK\VISUAL STUDIO\C# BASE PROGRAM\First_Program\First_Program\obj\Debug\netcoreapp3.1\First_Program.AssemblyInfoInputs.cache
+E:\FUTURE WORK\VISUAL STUDIO\C# BASE PROGRAM\First_Program\First_Program\obj\Debug\netcoreapp3.1\First_Program.AssemblyInfo.cs
+E:\FUTURE WORK\VISUAL STUDIO\C# BASE PROGRAM\First_Program\First_Program\obj\Debug\netcoreapp3.1\First_Program.dll
+E:\FUTURE WORK\VISUAL STUDIO\C# BASE PROGRAM\First_Program\First_Program\obj\Debug\netcoreapp3.1\First_Program.pdb
+E:\FUTURE WORK\VISUAL STUDIO\C# BASE PROGRAM\First_Program\First_Program\obj\Debug\netcoreapp3.1\First_Program.genruntimeconfig.cache

@@ -1,0 +1,12 @@
+E:\FUTURE WORK\VISUAL STUDIO\VB.NET BASE PROGRAM\Variable_Declaration\bin\Debug\Variable_Declaration.exe.config
+E:\FUTURE WORK\VISUAL STUDIO\VB.NET BASE PROGRAM\Variable_Declaration\bin\Debug\Variable_Declaration.exe
+E:\FUTURE WORK\VISUAL STUDIO\VB.NET BASE PROGRAM\Variable_Declaration\bin\Debug\Variable_Declaration.pdb
+E:\FUTURE WORK\VISUAL STUDIO\VB.NET BASE PROGRAM\Variable_Declaration\bin\Debug\Variable_Declaration.xml
+E:\FUTURE WORK\VISUAL STUDIO\VB.NET BASE PROGRAM\Variable_Declaration\obj\Debug\Variable_Declaration.vbprojAssemblyReference.cache
+E:\FUTURE WORK\VISUAL STUDIO\VB.NET BASE PROGRAM\Variable_Declaration\obj\Debug\Variable_Declaration.Form1.resources
+E:\FUTURE WORK\VISUAL STUDIO\VB.NET BASE PROGRAM\Variable_Declaration\obj\Debug\Variable_Declaration.Resources.resources
+E:\FUTURE WORK\VISUAL STUDIO\VB.NET BASE PROGRAM\Variable_Declaration\obj\Debug\Variable_Declaration.vbproj.GenerateResource.cache
+E:\FUTURE WORK\VISUAL STUDIO\VB.NET BASE PROGRAM\Variable_Declaration\obj\Debug\Variable_Declaration.vbproj.CoreCompileInputs.cache
+E:\FUTURE WORK\VISUAL STUDIO\VB.NET BASE PROGRAM\Variable_Declaration\obj\Debug\Variable_Declaration.exe
+E:\FUTURE WORK\VISUAL STUDIO\VB.NET BASE PROGRAM\Variable_Declaration\obj\Debug\Variable_Declaration.xml
+E:\FUTURE WORK\VISUAL STUDIO\VB.NET BASE PROGRAM\Variable_Declaration\obj\Debug\Variable_Declaration.pdb

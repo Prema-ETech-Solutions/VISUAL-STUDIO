@@ -1,0 +1,12 @@
+E:\FUTURE WORK\VISUAL STUDIO\C# BASE PROGRAM\Obj_class_\Obj_class_\bin\Debug\netcoreapp3.1\Obj_class_.exe
+E:\FUTURE WORK\VISUAL STUDIO\C# BASE PROGRAM\Obj_class_\Obj_class_\bin\Debug\netcoreapp3.1\Obj_class_.deps.json
+E:\FUTURE WORK\VISUAL STUDIO\C# BASE PROGRAM\Obj_class_\Obj_class_\bin\Debug\netcoreapp3.1\Obj_class_.runtimeconfig.json
+E:\FUTURE WORK\VISUAL STUDIO\C# BASE PROGRAM\Obj_class_\Obj_class_\bin\Debug\netcoreapp3.1\Obj_class_.runtimeconfig.dev.json
+E:\FUTURE WORK\VISUAL STUDIO\C# BASE PROGRAM\Obj_class_\Obj_class_\bin\Debug\netcoreapp3.1\Obj_class_.dll
+E:\FUTURE WORK\VISUAL STUDIO\C# BASE PROGRAM\Obj_class_\Obj_class_\bin\Debug\netcoreapp3.1\Obj_class_.pdb
+E:\FUTURE WORK\VISUAL STUDIO\C# BASE PROGRAM\Obj_class_\Obj_class_\obj\Debug\netcoreapp3.1\Obj_class_.AssemblyInfoInputs.cache
+E:\FUTURE WORK\VISUAL STUDIO\C# BASE PROGRAM\Obj_class_\Obj_class_\obj\Debug\netcoreapp3.1\Obj_class_.AssemblyInfo.cs
+E:\FUTURE WORK\VISUAL STUDIO\C# BASE PROGRAM\Obj_class_\Obj_class_\obj\Debug\netcoreapp3.1\Obj_class_.csproj.CoreCompileInputs.cache
+E:\FUTURE WORK\VISUAL STUDIO\C# BASE PROGRAM\Obj_class_\Obj_class_\obj\Debug\netcoreapp3.1\Obj_class_.dll
+E:\FUTURE WORK\VISUAL STUDIO\C# BASE PROGRAM\Obj_class_\Obj_class_\obj\Debug\netcoreapp3.1\Obj_class_.pdb
+E:\FUTURE WORK\VISUAL STUDIO\C# BASE PROGRAM\Obj_class_\Obj_class_\obj\Debug\netcoreapp3.1\Obj_class_.genruntimeconfig.cache

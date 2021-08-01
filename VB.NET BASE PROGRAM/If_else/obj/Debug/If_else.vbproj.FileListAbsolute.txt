@@ -1,0 +1,12 @@
+E:\FUTURE WORK\VISUAL STUDIO\VB.NET BASE PROGRAM\If_else\bin\Debug\If_else.exe.config
+E:\FUTURE WORK\VISUAL STUDIO\VB.NET BASE PROGRAM\If_else\bin\Debug\If_else.exe
+E:\FUTURE WORK\VISUAL STUDIO\VB.NET BASE PROGRAM\If_else\bin\Debug\If_else.pdb
+E:\FUTURE WORK\VISUAL STUDIO\VB.NET BASE PROGRAM\If_else\bin\Debug\If_else.xml
+E:\FUTURE WORK\VISUAL STUDIO\VB.NET BASE PROGRAM\If_else\obj\Debug\If_else.vbprojAssemblyReference.cache
+E:\FUTURE WORK\VISUAL STUDIO\VB.NET BASE PROGRAM\If_else\obj\Debug\If_else.Form1.resources
+E:\FUTURE WORK\VISUAL STUDIO\VB.NET BASE PROGRAM\If_else\obj\Debug\If_else.Resources.resources
+E:\FUTURE WORK\VISUAL STUDIO\VB.NET BASE PROGRAM\If_else\obj\Debug\If_else.vbproj.GenerateResource.cache
+E:\FUTURE WORK\VISUAL STUDIO\VB.NET BASE PROGRAM\If_else\obj\Debug\If_else.vbproj.CoreCompileInputs.cache
+E:\FUTURE WORK\VISUAL STUDIO\VB.NET BASE PROGRAM\If_else\obj\Debug\If_else.exe
+E:\FUTURE WORK\VISUAL STUDIO\VB.NET BASE PROGRAM\If_else\obj\Debug\If_else.xml
+E:\FUTURE WORK\VISUAL STUDIO\VB.NET BASE PROGRAM\If_else\obj\Debug\If_else.pdb

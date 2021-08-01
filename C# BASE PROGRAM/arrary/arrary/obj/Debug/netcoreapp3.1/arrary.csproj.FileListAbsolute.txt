@@ -1,0 +1,13 @@
+E:\FUTURE WORK\VISUAL STUDIO\C# BASE PROGRAM\arrary\arrary\bin\Debug\netcoreapp3.1\arrary.exe
+E:\FUTURE WORK\VISUAL STUDIO\C# BASE PROGRAM\arrary\arrary\bin\Debug\netcoreapp3.1\arrary.deps.json
+E:\FUTURE WORK\VISUAL STUDIO\C# BASE PROGRAM\arrary\arrary\bin\Debug\netcoreapp3.1\arrary.runtimeconfig.json
+E:\FUTURE WORK\VISUAL STUDIO\C# BASE PROGRAM\arrary\arrary\bin\Debug\netcoreapp3.1\arrary.runtimeconfig.dev.json
+E:\FUTURE WORK\VISUAL STUDIO\C# BASE PROGRAM\arrary\arrary\bin\Debug\netcoreapp3.1\arrary.dll
+E:\FUTURE WORK\VISUAL STUDIO\C# BASE PROGRAM\arrary\arrary\bin\Debug\netcoreapp3.1\arrary.pdb
+E:\FUTURE WORK\VISUAL STUDIO\C# BASE PROGRAM\arrary\arrary\obj\Debug\netcoreapp3.1\arrary.AssemblyInfoInputs.cache
+E:\FUTURE WORK\VISUAL STUDIO\C# BASE PROGRAM\arrary\arrary\obj\Debug\netcoreapp3.1\arrary.AssemblyInfo.cs
+E:\FUTURE WORK\VISUAL STUDIO\C# BASE PROGRAM\arrary\arrary\obj\Debug\netcoreapp3.1\arrary.csproj.CoreCompileInputs.cache
+E:\FUTURE WORK\VISUAL STUDIO\C# BASE PROGRAM\arrary\arrary\obj\Debug\netcoreapp3.1\arrary.dll
+E:\FUTURE WORK\VISUAL STUDIO\C# BASE PROGRAM\arrary\arrary\obj\Debug\netcoreapp3.1\arrary.pdb
+E:\FUTURE WORK\VISUAL STUDIO\C# BASE PROGRAM\arrary\arrary\obj\Debug\netcoreapp3.1\arrary.genruntimeconfig.cache
+E:\FUTURE WORK\VISUAL STUDIO\C# BASE PROGRAM\arrary\arrary\obj\Debug\netcoreapp3.1\arrary.csprojAssemblyReference.cache

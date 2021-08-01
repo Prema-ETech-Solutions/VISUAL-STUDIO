@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30204.135
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "pdf_file", "pdf_file\pdf_file.vbproj", "{105E724D-71F3-407F-B7AF-153506159612}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{105E724D-71F3-407F-B7AF-153506159612}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{105E724D-71F3-407F-B7AF-153506159612}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{105E724D-71F3-407F-B7AF-153506159612}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{105E724D-71F3-407F-B7AF-153506159612}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {598B31AC-4401-4663-9405-21BEFAE4F2F6}
+	EndGlobalSection
+EndGlobal

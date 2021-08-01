@@ -1,0 +1,26 @@
+E:\FUTURE WORK\VB.NET\C# BASE PROGRAM\Type_casting\Type_casting\bin\Debug\netcoreapp3.1\Type_casting.exe
+E:\FUTURE WORK\VB.NET\C# BASE PROGRAM\Type_casting\Type_casting\bin\Debug\netcoreapp3.1\Type_casting.deps.json
+E:\FUTURE WORK\VB.NET\C# BASE PROGRAM\Type_casting\Type_casting\bin\Debug\netcoreapp3.1\Type_casting.runtimeconfig.json
+E:\FUTURE WORK\VB.NET\C# BASE PROGRAM\Type_casting\Type_casting\bin\Debug\netcoreapp3.1\Type_casting.runtimeconfig.dev.json
+E:\FUTURE WORK\VB.NET\C# BASE PROGRAM\Type_casting\Type_casting\bin\Debug\netcoreapp3.1\Type_casting.dll
+E:\FUTURE WORK\VB.NET\C# BASE PROGRAM\Type_casting\Type_casting\bin\Debug\netcoreapp3.1\Type_casting.pdb
+E:\FUTURE WORK\VB.NET\C# BASE PROGRAM\Type_casting\Type_casting\obj\Debug\netcoreapp3.1\Type_casting.csprojAssemblyReference.cache
+E:\FUTURE WORK\VB.NET\C# BASE PROGRAM\Type_casting\Type_casting\obj\Debug\netcoreapp3.1\Type_casting.csproj.CoreCompileInputs.cache
+E:\FUTURE WORK\VB.NET\C# BASE PROGRAM\Type_casting\Type_casting\obj\Debug\netcoreapp3.1\Type_casting.AssemblyInfoInputs.cache
+E:\FUTURE WORK\VB.NET\C# BASE PROGRAM\Type_casting\Type_casting\obj\Debug\netcoreapp3.1\Type_casting.AssemblyInfo.cs
+E:\FUTURE WORK\VB.NET\C# BASE PROGRAM\Type_casting\Type_casting\obj\Debug\netcoreapp3.1\Type_casting.dll
+E:\FUTURE WORK\VB.NET\C# BASE PROGRAM\Type_casting\Type_casting\obj\Debug\netcoreapp3.1\Type_casting.pdb
+E:\FUTURE WORK\VB.NET\C# BASE PROGRAM\Type_casting\Type_casting\obj\Debug\netcoreapp3.1\Type_casting.genruntimeconfig.cache
+E:\FUTURE WORK\VISUAL STUDIO\C# BASE PROGRAM\Type_casting\Type_casting\bin\Debug\netcoreapp3.1\Type_casting.exe
+E:\FUTURE WORK\VISUAL STUDIO\C# BASE PROGRAM\Type_casting\Type_casting\bin\Debug\netcoreapp3.1\Type_casting.deps.json
+E:\FUTURE WORK\VISUAL STUDIO\C# BASE PROGRAM\Type_casting\Type_casting\bin\Debug\netcoreapp3.1\Type_casting.runtimeconfig.json
+E:\FUTURE WORK\VISUAL STUDIO\C# BASE PROGRAM\Type_casting\Type_casting\bin\Debug\netcoreapp3.1\Type_casting.runtimeconfig.dev.json
+E:\FUTURE WORK\VISUAL STUDIO\C# BASE PROGRAM\Type_casting\Type_casting\bin\Debug\netcoreapp3.1\Type_casting.dll
+E:\FUTURE WORK\VISUAL STUDIO\C# BASE PROGRAM\Type_casting\Type_casting\bin\Debug\netcoreapp3.1\Type_casting.pdb
+E:\FUTURE WORK\VISUAL STUDIO\C# BASE PROGRAM\Type_casting\Type_casting\obj\Debug\netcoreapp3.1\Type_casting.csprojAssemblyReference.cache
+E:\FUTURE WORK\VISUAL STUDIO\C# BASE PROGRAM\Type_casting\Type_casting\obj\Debug\netcoreapp3.1\Type_casting.csproj.CoreCompileInputs.cache
+E:\FUTURE WORK\VISUAL STUDIO\C# BASE PROGRAM\Type_casting\Type_casting\obj\Debug\netcoreapp3.1\Type_casting.AssemblyInfoInputs.cache
+E:\FUTURE WORK\VISUAL STUDIO\C# BASE PROGRAM\Type_casting\Type_casting\obj\Debug\netcoreapp3.1\Type_casting.AssemblyInfo.cs
+E:\FUTURE WORK\VISUAL STUDIO\C# BASE PROGRAM\Type_casting\Type_casting\obj\Debug\netcoreapp3.1\Type_casting.dll
+E:\FUTURE WORK\VISUAL STUDIO\C# BASE PROGRAM\Type_casting\Type_casting\obj\Debug\netcoreapp3.1\Type_casting.pdb
+E:\FUTURE WORK\VISUAL STUDIO\C# BASE PROGRAM\Type_casting\Type_casting\obj\Debug\netcoreapp3.1\Type_casting.genruntimeconfig.cache

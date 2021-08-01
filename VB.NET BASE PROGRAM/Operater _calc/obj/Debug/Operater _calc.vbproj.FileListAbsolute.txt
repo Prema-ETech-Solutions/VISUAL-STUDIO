@@ -1,0 +1,12 @@
+E:\FUTURE WORK\VISUAL STUDIO\VB.NET BASE PROGRAM\Operater _calc\bin\Debug\Operater _calc.exe.config
+E:\FUTURE WORK\VISUAL STUDIO\VB.NET BASE PROGRAM\Operater _calc\bin\Debug\Operater _calc.exe
+E:\FUTURE WORK\VISUAL STUDIO\VB.NET BASE PROGRAM\Operater _calc\bin\Debug\Operater _calc.pdb
+E:\FUTURE WORK\VISUAL STUDIO\VB.NET BASE PROGRAM\Operater _calc\bin\Debug\Operater _calc.xml
+E:\FUTURE WORK\VISUAL STUDIO\VB.NET BASE PROGRAM\Operater _calc\obj\Debug\Operater _calc.vbprojAssemblyReference.cache
+E:\FUTURE WORK\VISUAL STUDIO\VB.NET BASE PROGRAM\Operater _calc\obj\Debug\Operater__calc.Form1.resources
+E:\FUTURE WORK\VISUAL STUDIO\VB.NET BASE PROGRAM\Operater _calc\obj\Debug\Operater__calc.Resources.resources
+E:\FUTURE WORK\VISUAL STUDIO\VB.NET BASE PROGRAM\Operater _calc\obj\Debug\Operater _calc.vbproj.GenerateResource.cache
+E:\FUTURE WORK\VISUAL STUDIO\VB.NET BASE PROGRAM\Operater _calc\obj\Debug\Operater _calc.vbproj.CoreCompileInputs.cache
+E:\FUTURE WORK\VISUAL STUDIO\VB.NET BASE PROGRAM\Operater _calc\obj\Debug\Operater _calc.exe
+E:\FUTURE WORK\VISUAL STUDIO\VB.NET BASE PROGRAM\Operater _calc\obj\Debug\Operater _calc.xml
+E:\FUTURE WORK\VISUAL STUDIO\VB.NET BASE PROGRAM\Operater _calc\obj\Debug\Operater _calc.pdb

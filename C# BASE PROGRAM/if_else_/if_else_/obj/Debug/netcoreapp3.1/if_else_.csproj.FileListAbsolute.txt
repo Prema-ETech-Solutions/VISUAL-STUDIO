@@ -1,0 +1,13 @@
+E:\FUTURE WORK\VISUAL STUDIO\C# BASE PROGRAM\if_else_\if_else_\bin\Debug\netcoreapp3.1\if_else_.exe
+E:\FUTURE WORK\VISUAL STUDIO\C# BASE PROGRAM\if_else_\if_else_\bin\Debug\netcoreapp3.1\if_else_.deps.json
+E:\FUTURE WORK\VISUAL STUDIO\C# BASE PROGRAM\if_else_\if_else_\bin\Debug\netcoreapp3.1\if_else_.runtimeconfig.json
+E:\FUTURE WORK\VISUAL STUDIO\C# BASE PROGRAM\if_else_\if_else_\bin\Debug\netcoreapp3.1\if_else_.runtimeconfig.dev.json
+E:\FUTURE WORK\VISUAL STUDIO\C# BASE PROGRAM\if_else_\if_else_\bin\Debug\netcoreapp3.1\if_else_.dll
+E:\FUTURE WORK\VISUAL STUDIO\C# BASE PROGRAM\if_else_\if_else_\bin\Debug\netcoreapp3.1\if_else_.pdb
+E:\FUTURE WORK\VISUAL STUDIO\C# BASE PROGRAM\if_else_\if_else_\obj\Debug\netcoreapp3.1\if_else_.csprojAssemblyReference.cache
+E:\FUTURE WORK\VISUAL STUDIO\C# BASE PROGRAM\if_else_\if_else_\obj\Debug\netcoreapp3.1\if_else_.AssemblyInfoInputs.cache
+E:\FUTURE WORK\VISUAL STUDIO\C# BASE PROGRAM\if_else_\if_else_\obj\Debug\netcoreapp3.1\if_else_.AssemblyInfo.cs
+E:\FUTURE WORK\VISUAL STUDIO\C# BASE PROGRAM\if_else_\if_else_\obj\Debug\netcoreapp3.1\if_else_.csproj.CoreCompileInputs.cache
+E:\FUTURE WORK\VISUAL STUDIO\C# BASE PROGRAM\if_else_\if_else_\obj\Debug\netcoreapp3.1\if_else_.dll
+E:\FUTURE WORK\VISUAL STUDIO\C# BASE PROGRAM\if_else_\if_else_\obj\Debug\netcoreapp3.1\if_else_.pdb
+E:\FUTURE WORK\VISUAL STUDIO\C# BASE PROGRAM\if_else_\if_else_\obj\Debug\netcoreapp3.1\if_else_.genruntimeconfig.cache
