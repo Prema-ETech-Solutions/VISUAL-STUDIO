@@ -1,0 +1,10 @@
+C:\Users\FCS-LAPTOP\Desktop\C#\VISUAL-STUDIO\C# BASE PROGRAM\MysqlTest\bin\Debug\MysqlTest.exe.config
+C:\Users\FCS-LAPTOP\Desktop\C#\VISUAL-STUDIO\C# BASE PROGRAM\MysqlTest\bin\Debug\MysqlTest.exe
+C:\Users\FCS-LAPTOP\Desktop\C#\VISUAL-STUDIO\C# BASE PROGRAM\MysqlTest\bin\Debug\MysqlTest.pdb
+C:\Users\FCS-LAPTOP\Desktop\C#\VISUAL-STUDIO\C# BASE PROGRAM\MysqlTest\bin\Debug\MySql.Data.dll
+C:\Users\FCS-LAPTOP\Desktop\C#\VISUAL-STUDIO\C# BASE PROGRAM\MysqlTest\obj\Debug\MysqlTest.csproj.AssemblyReference.cache
+C:\Users\FCS-LAPTOP\Desktop\C#\VISUAL-STUDIO\C# BASE PROGRAM\MysqlTest\obj\Debug\MysqlTest.csproj.SuggestedBindingRedirects.cache
+C:\Users\FCS-LAPTOP\Desktop\C#\VISUAL-STUDIO\C# BASE PROGRAM\MysqlTest\obj\Debug\MysqlTest.csproj.CoreCompileInputs.cache
+C:\Users\FCS-LAPTOP\Desktop\C#\VISUAL-STUDIO\C# BASE PROGRAM\MysqlTest\obj\Debug\MysqlTest.csproj.CopyComplete
+C:\Users\FCS-LAPTOP\Desktop\C#\VISUAL-STUDIO\C# BASE PROGRAM\MysqlTest\obj\Debug\MysqlTest.exe
+C:\Users\FCS-LAPTOP\Desktop\C#\VISUAL-STUDIO\C# BASE PROGRAM\MysqlTest\obj\Debug\MysqlTest.pdb

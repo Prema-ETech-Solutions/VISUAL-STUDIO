@@ -1,0 +1,11 @@
+C:\Users\FCS-LAPTOP\Desktop\C#\VISUAL-STUDIO\C# BASE PROGRAM\File_IO\bin\Debug\File_IO.exe.config
+C:\Users\FCS-LAPTOP\Desktop\C#\VISUAL-STUDIO\C# BASE PROGRAM\File_IO\bin\Debug\File_IO.exe
+C:\Users\FCS-LAPTOP\Desktop\C#\VISUAL-STUDIO\C# BASE PROGRAM\File_IO\bin\Debug\File_IO.pdb
+C:\Users\FCS-LAPTOP\Desktop\C#\VISUAL-STUDIO\C# BASE PROGRAM\File_IO\obj\Debug\File_IO.csproj.AssemblyReference.cache
+C:\Users\FCS-LAPTOP\Desktop\C#\VISUAL-STUDIO\C# BASE PROGRAM\File_IO\obj\Debug\File_IO.csproj.SuggestedBindingRedirects.cache
+C:\Users\FCS-LAPTOP\Desktop\C#\VISUAL-STUDIO\C# BASE PROGRAM\File_IO\obj\Debug\File_IO.MainForm.resources
+C:\Users\FCS-LAPTOP\Desktop\C#\VISUAL-STUDIO\C# BASE PROGRAM\File_IO\obj\Debug\File_IO.Properties.Resources.resources
+C:\Users\FCS-LAPTOP\Desktop\C#\VISUAL-STUDIO\C# BASE PROGRAM\File_IO\obj\Debug\File_IO.csproj.GenerateResource.cache
+C:\Users\FCS-LAPTOP\Desktop\C#\VISUAL-STUDIO\C# BASE PROGRAM\File_IO\obj\Debug\File_IO.csproj.CoreCompileInputs.cache
+C:\Users\FCS-LAPTOP\Desktop\C#\VISUAL-STUDIO\C# BASE PROGRAM\File_IO\obj\Debug\File_IO.exe
+C:\Users\FCS-LAPTOP\Desktop\C#\VISUAL-STUDIO\C# BASE PROGRAM\File_IO\obj\Debug\File_IO.pdb
